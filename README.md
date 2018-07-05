@@ -14,6 +14,9 @@ This space has some benefits.
  - Users that are looking for custom_card will have fewer places to look.
  - There is less chance that multiple developers are working on the same thing.
 
+#### Installing the custom_cards
+For the latest instruction on how to install custom_cards please view the [official documents](https://developers.home-assistant.io/docs/en/lovelace_custom_card.html)
+
 #### Rules
 Like all other places there are need for some rules.
 Your repo should have a name like this `name-card` i.e. `weather-card`.
