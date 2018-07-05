@@ -1,8 +1,7 @@
-# Information - custom_components
-
+# Information - custom_cards
 This organization (shared space) was a result of a short discussion over on the [Discord server](https://discord.gg/c5DvZ4e).
 
-A similar organization (shared space) was also made for [custom_cards](https://github.com/custom-components).
+A similar organization (shared space) was also made for [custom_components](https://github.com/custom-components).
 
 This shared space is **not** supposed to be a replacement of any kind to the Official sites/documentation for Home Assistant.
 
@@ -12,7 +11,7 @@ This shared space is **not** supposed to be a replacement of any kind to the Off
 
 This shared space is a place where all users that develop custom_components are invited to share their codes for discoverability.
 This space has some benefits.
- - Users that are looking for custom_card will have fever places to look.
+ - Users that are looking for custom_card will have fewer places to look.
  - There is less chance that multiple developers are working on the same thing.
 
 #### Rules
