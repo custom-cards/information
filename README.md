@@ -9,10 +9,11 @@ This shared space is **not** supposed to be a replacement of any kind to the Off
  - [Home Assistant website](https://www.home-assistant.io/)
  - [Home Assistant developer documentation](https://developers.home-assistant.io/)
 
-This shared space is a place where all users that develop custom_components are invited to share their codes for discoverability.
+This shared space is a place where all users that develop [custom_cards](https://developers.home-assistant.io/docs/en/lovelace_custom_card.html) are invited to share their codes for discoverability.
 This space has some benefits.
  - Users that are looking for custom_card will have fewer places to look.
  - There is less chance that multiple developers are working on the same thing.
+ - Users can :star: the cards that they love and most popular will get a higher chance to get adopted into official lovelace
 
 #### Installing the custom_cards
 For the latest instruction on how to install custom_cards please view the [official documents](https://developers.home-assistant.io/docs/en/lovelace_custom_card.html)
