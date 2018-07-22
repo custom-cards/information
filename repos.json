@@ -1,0 +1,62 @@
+{
+    "text-element": {
+      "updated_at": "2018-07-22",
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/text-element/master/text-element.js"
+    },
+        "": {
+          "updated_at": "Unkown",
+          "version": "",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master//.js"
+        },
+        "monster-card": {
+          "updated_at": "Unkown",
+          "version": "0.2.3",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/monster-card/monster-card.js"
+        },
+        "gauge-card": {
+          "updated_at": "Unkown",
+          "version": "0.0.1",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/gauge-card/gauge-card.js"
+        },
+        "vertical-stack-in-card": {
+          "updated_at": "Unkown",
+          "version": "0.0.1",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/vertical-stack-in-card/vertical-stack-in-card.js"
+        },
+        "entity-attributes-card": {
+          "updated_at": "Unkown",
+          "version": "0.0.1",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/entity-attributes-card/entity-attributes-card.js"
+        },
+        "sample-card": {
+          "updated_at": "Unkown",
+          "version": "0.0.1",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/sample-card/sample-card.js"
+        },
+        "plan-coordinates": {
+          "updated_at": "Unkown",
+          "version": "0.1.0",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/plan-coordinates/plan-coordinates.js"
+        },
+        "alarm_control_panel-card": {
+          "updated_at": "Unkown",
+          "version": "0.3.0",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/alarm_control_panel-card/alarm_control_panel-card.js"
+        },
+        "bignumber-card": {
+          "updated_at": "Unkown",
+          "version": "0.0.1",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/bignumber-card/bignumber-card.js"
+        },
+        "beer-card": {
+          "updated_at": "Unkown",
+          "version": "0.2.3",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/beer-card/beer-card.js"
+        },
+        "tracker-card": {
+          "updated_at": "Unkown",
+          "version": "0.1.2",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/tracker-card/tracker-card.js"
+        }
+}
