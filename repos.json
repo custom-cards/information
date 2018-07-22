@@ -2,61 +2,73 @@
     "text-element": {
       "updated_at": "2018-07-22",
       "version": "0.0.1",
-      "remote_location": "https://raw.githubusercontent.com/custom-cards/text-element/master/text-element.js"
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/text-element/master/text-element.js",
+      "changelog": https://raw.githubusercontent.com/custom-cards/text-element/master/changelog.md
     },
       "": {
         "updated_at": "Unkown",
         "version": "",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master//.js"
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master//.js",
+        "changelog": https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master//changelog.md
       },
       "monster-card": {
         "updated_at": "Unkown",
         "version": "0.2.3",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/monster-card/monster-card.js"
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/monster-card/monster-card.js",
+        "changelog": https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/monster-card/changelog.md
       },
       "gauge-card": {
         "updated_at": "Unkown",
         "version": "0.0.1",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/gauge-card/gauge-card.js"
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/gauge-card/gauge-card.js",
+        "changelog": https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/gauge-card/changelog.md
       },
       "vertical-stack-in-card": {
         "updated_at": "Unkown",
         "version": "0.0.1",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/vertical-stack-in-card/vertical-stack-in-card.js"
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/vertical-stack-in-card/vertical-stack-in-card.js",
+        "changelog": https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/vertical-stack-in-card/changelog.md
       },
       "entity-attributes-card": {
         "updated_at": "Unkown",
         "version": "0.0.1",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/entity-attributes-card/entity-attributes-card.js"
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/entity-attributes-card/entity-attributes-card.js",
+        "changelog": https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/entity-attributes-card/changelog.md
       },
       "sample-card": {
         "updated_at": "Unkown",
         "version": "0.0.1",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/sample-card/sample-card.js"
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/sample-card/sample-card.js",
+        "changelog": https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/sample-card/changelog.md
       },
       "plan-coordinates": {
         "updated_at": "Unkown",
         "version": "0.1.0",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/plan-coordinates/plan-coordinates.js"
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/plan-coordinates/plan-coordinates.js",
+        "changelog": https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/plan-coordinates/changelog.md
       },
       "alarm_control_panel-card": {
         "updated_at": "Unkown",
         "version": "0.3.0",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/alarm_control_panel-card/alarm_control_panel-card.js"
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/alarm_control_panel-card/alarm_control_panel-card.js",
+        "changelog": https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/alarm_control_panel-card/changelog.md
       },
       "bignumber-card": {
         "updated_at": "Unkown",
         "version": "0.0.1",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/bignumber-card/bignumber-card.js"
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/bignumber-card/bignumber-card.js",
+        "changelog": https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/bignumber-card/changelog.md
       },
       "beer-card": {
         "updated_at": "Unkown",
         "version": "0.2.3",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/beer-card/beer-card.js"
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/beer-card/beer-card.js",
+        "changelog": https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/beer-card/changelog.md
       },
       "tracker-card": {
         "updated_at": "Unkown",
         "version": "0.1.2",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/tracker-card/tracker-card.js"
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/tracker-card/tracker-card.js",
+        "changelog": https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/tracker-card/changelog.md
       }
 }
