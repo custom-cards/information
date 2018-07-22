@@ -24,11 +24,6 @@
         "version": "0.0.1",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/vertical-stack-in-card/vertical-stack-in-card.js"
       },
-      ".git": {
-        "updated_at": "Unkown",
-        "version": "",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/.git/.git.js"
-      },
       "entity-attributes-card": {
         "updated_at": "Unkown",
         "version": "0.0.1",
