@@ -20,13 +20,6 @@
       "visit_repo": "https://github.com/custom-cards/text-element",
       "changelog": "https://github.com/custom-cards/text-element/releases/latest"
     },
-      "": {
-        "updated_at": "Unkown",
-        "version": "",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master//.js",
-        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/",
-        "changelog": "https://github.com/ciotlosm/custom-lovelace//changelog.md"
-      },
       "monster-card": {
         "updated_at": "Unkown",
         "version": "0.2.3",
