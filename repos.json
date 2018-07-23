@@ -25,62 +25,62 @@
         "version": "0.2.3",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/monster-card/monster-card.js",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card",
-        "changelog": "https://github.com/ciotlosm/custom-lovelace/monster-card/changelog.md"
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card/changelog.md"
       },
       "gauge-card": {
         "updated_at": "Unkown",
         "version": "0.0.1",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/gauge-card/gauge-card.js",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/gauge-card",
-        "changelog": "https://github.com/ciotlosm/custom-lovelace/gauge-card/changelog.md"
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/gauge-card/changelog.md"
       },
       "vertical-stack-in-card": {
         "updated_at": "Unkown",
         "version": "0.0.1",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/vertical-stack-in-card/vertical-stack-in-card.js",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/vertical-stack-in-card",
-        "changelog": "https://github.com/ciotlosm/custom-lovelace/vertical-stack-in-card/changelog.md"
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/vertical-stack-in-card/changelog.md"
       },
       "entity-attributes-card": {
         "updated_at": "Unkown",
         "version": "0.0.1",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/entity-attributes-card/entity-attributes-card.js",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/entity-attributes-card",
-        "changelog": "https://github.com/ciotlosm/custom-lovelace/entity-attributes-card/changelog.md"
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/entity-attributes-card/changelog.md"
       },
       "plan-coordinates": {
         "updated_at": "Unkown",
         "version": "0.1.0",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/plan-coordinates/plan-coordinates.js",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/plan-coordinates",
-        "changelog": "https://github.com/ciotlosm/custom-lovelace/plan-coordinates/changelog.md"
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/plan-coordinates/changelog.md"
       },
       "alarm_control_panel-card": {
         "updated_at": "Unkown",
         "version": "0.3.1",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/alarm_control_panel-card/alarm_control_panel-card.js",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/alarm_control_panel-card",
-        "changelog": "https://github.com/ciotlosm/custom-lovelace/alarm_control_panel-card/changelog.md"
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/alarm_control_panel-card/changelog.md"
       },
       "bignumber-card": {
         "updated_at": "Unkown",
         "version": "0.0.1",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/bignumber-card/bignumber-card.js",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/bignumber-card",
-        "changelog": "https://github.com/ciotlosm/custom-lovelace/bignumber-card/changelog.md"
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/bignumber-card/changelog.md"
       },
       "beer-card": {
         "updated_at": "Unkown",
         "version": "0.2.3",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/beer-card/beer-card.js",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/beer-card",
-        "changelog": "https://github.com/ciotlosm/custom-lovelace/beer-card/changelog.md"
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/beer-card/changelog.md"
       },
       "tracker-card": {
         "updated_at": "Unkown",
         "version": "0.1.2",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/tracker-card/tracker-card.js",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/tracker-card",
-        "changelog": "https://github.com/ciotlosm/custom-lovelace/tracker-card/changelog.md"
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/tracker-card/changelog.md"
       }
 }
