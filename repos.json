@@ -3,78 +3,91 @@
       "updated_at": "2018-07-23",
       "version": "1.0.0",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
+      "visit_repo": "https://github.com/custom-cards/circle-sensor-card",
       "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
     },
     "marquee-state-element": {
       "updated_at": "2018-07-23",
       "version": "0.0.1",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/marquee-state-element/master/marquee-state-element.js",
+      "visit_repo": "https://github.com/custom-cards/marquee-state-element",
       "changelog": "https://github.com/custom-cards/marquee-state-element/releases/latest"
     },
     "text-element": {
       "updated_at": "2018-07-22",
       "version": "0.0.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/text-element/master/text-element.js",
+      "visit_repo": "https://github.com/custom-cards/text-element",
       "changelog": "https://github.com/custom-cards/text-element/releases/latest"
     },
       "": {
         "updated_at": "Unkown",
         "version": "",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master//.js",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/",
         "changelog": "https://github.com/ciotlosm/custom-lovelace//changelog.md"
       },
       "monster-card": {
         "updated_at": "Unkown",
         "version": "0.2.3",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/monster-card/monster-card.js",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/monster-card",
         "changelog": "https://github.com/ciotlosm/custom-lovelace/monster-card/changelog.md"
       },
       "gauge-card": {
         "updated_at": "Unkown",
         "version": "0.0.1",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/gauge-card/gauge-card.js",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/gauge-card",
         "changelog": "https://github.com/ciotlosm/custom-lovelace/gauge-card/changelog.md"
       },
       "vertical-stack-in-card": {
         "updated_at": "Unkown",
         "version": "0.0.1",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/vertical-stack-in-card/vertical-stack-in-card.js",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/vertical-stack-in-card",
         "changelog": "https://github.com/ciotlosm/custom-lovelace/vertical-stack-in-card/changelog.md"
       },
       "entity-attributes-card": {
         "updated_at": "Unkown",
         "version": "0.0.1",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/entity-attributes-card/entity-attributes-card.js",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/entity-attributes-card",
         "changelog": "https://github.com/ciotlosm/custom-lovelace/entity-attributes-card/changelog.md"
       },
       "plan-coordinates": {
         "updated_at": "Unkown",
         "version": "0.1.0",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/plan-coordinates/plan-coordinates.js",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/plan-coordinates",
         "changelog": "https://github.com/ciotlosm/custom-lovelace/plan-coordinates/changelog.md"
       },
       "alarm_control_panel-card": {
         "updated_at": "Unkown",
         "version": "0.3.1",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/alarm_control_panel-card/alarm_control_panel-card.js",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/alarm_control_panel-card",
         "changelog": "https://github.com/ciotlosm/custom-lovelace/alarm_control_panel-card/changelog.md"
       },
       "bignumber-card": {
         "updated_at": "Unkown",
         "version": "0.0.1",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/bignumber-card/bignumber-card.js",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/bignumber-card",
         "changelog": "https://github.com/ciotlosm/custom-lovelace/bignumber-card/changelog.md"
       },
       "beer-card": {
         "updated_at": "Unkown",
         "version": "0.2.3",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/beer-card/beer-card.js",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/beer-card",
         "changelog": "https://github.com/ciotlosm/custom-lovelace/beer-card/changelog.md"
       },
       "tracker-card": {
         "updated_at": "Unkown",
         "version": "0.1.2",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/tracker-card/tracker-card.js",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tracker-card",
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tracker-card/changelog.md"
       }
 }
