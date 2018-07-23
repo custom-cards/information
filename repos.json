@@ -47,12 +47,6 @@
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/entity-attributes-card/entity-attributes-card.js",
         "changelog": "https://github.com/ciotlosm/custom-lovelace/entity-attributes-card/changelog.md"
       },
-      "sample-card": {
-        "updated_at": "Unkown",
-        "version": "0.0.1",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/sample-card/sample-card.js",
-        "changelog": "https://github.com/ciotlosm/custom-lovelace/sample-card/changelog.md"
-      },
       "plan-coordinates": {
         "updated_at": "Unkown",
         "version": "0.1.0",
