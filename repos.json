@@ -8,10 +8,17 @@
     },
     "marquee-state-element": {
       "updated_at": "2018-07-23",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/marquee-state-element/master/marquee-state-element.js",
       "visit_repo": "https://github.com/custom-cards/marquee-state-element",
       "changelog": "https://github.com/custom-cards/marquee-state-element/releases/latest"
+    },
+    "state-attribute-element": {
+      "updated_at": "2018-07-23",
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/state-attribute-element/master/state-attribute-element.js",
+      "visit_repo": "https://github.com/custom-cards/state-attribute-element",
+      "changelog": "https://github.com/custom-cards/state-attribute-element/releases/latest"
     },
     "text-element": {
       "updated_at": "2018-07-22",
