@@ -36,7 +36,7 @@
     },
     "tracker-card": {
       "updated_at": "2018-07-23",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/tracker-card/master/tracker-card.js",
       "visit_repo": "https://github.com/custom-cards/tracker-card",
       "changelog": "https://github.com/custom-cards/tracker-card/blob/master/changelog.md"
