@@ -50,14 +50,14 @@
       },
       "vertical-stack-in-card": {
         "updated_at": "Unkown",
-        "version": "0.0.1",
+        "version": "",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/vertical-stack-in-card/vertical-stack-in-card.js",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/vertical-stack-in-card",
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/vertical-stack-in-card/changelog.md"
       },
       "entity-attributes-card": {
         "updated_at": "Unkown",
-        "version": "0.0.1",
+        "version": "0.1.0",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/entity-attributes-card/entity-attributes-card.js",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/entity-attributes-card",
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/entity-attributes-card/changelog.md"
@@ -92,7 +92,7 @@
       },
       "tracker-card": {
         "updated_at": "Unkown",
-        "version": "0.1.2",
+        "version": "0.1.3",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/tracker-card/tracker-card.js",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/tracker-card",
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/tracker-card/changelog.md"
