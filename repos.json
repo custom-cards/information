@@ -27,6 +27,13 @@
       "visit_repo": "https://github.com/custom-cards/text-element",
       "changelog": "https://github.com/custom-cards/text-element/releases/latest"
     },
+    "tracker-card": {
+      "updated_at": "2018-07-23",
+      "version": "0.1.2",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/tracker-card/master/tracker-card.js",
+      "visit_repo": "https://github.com/custom-cards/tracker-card",
+      "changelog": "https://github.com/custom-cards/tracker-card/releases/latest"
+    },
     "vertical-stack-in-card": {
       "updated_at": "2018-07-23",
       "version": "0.0.1",
@@ -92,7 +99,7 @@
       },
       "tracker-card": {
         "updated_at": "Unkown",
-        "version": "0.1.3",
+        "version": "",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/tracker-card/tracker-card.js",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/tracker-card",
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/tracker-card/changelog.md"
