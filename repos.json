@@ -5,6 +5,12 @@
       "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
       "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
     },
+    "marquee-state-element": {
+      "updated_at": "2018-07-23",
+      "version": "0.0.2",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/marquee-state-element/master/marquee-state-element.js",
+      "changelog": "https://github.com/custom-cards/marquee-state-element/releases/latest"
+    },
     "text-element": {
       "updated_at": "2018-07-22",
       "version": "0.0.2",
