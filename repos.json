@@ -27,6 +27,13 @@
       "visit_repo": "https://github.com/custom-cards/text-element",
       "changelog": "https://github.com/custom-cards/text-element/releases/latest"
     },
+    "vertical-stack-in-card": {
+      "updated_at": "2018-07-23",
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/master/vertical-stack-in-card.js",
+      "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card",
+      "changelog": "https://github.com/custom-cards/vertical-stack-in-card/releases/latest"
+    },
       "monster-card": {
         "updated_at": "Unkown",
         "version": "0.2.3",
