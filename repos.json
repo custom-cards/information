@@ -29,7 +29,7 @@
     },
     "state-element": {
       "updated_at": "2018-07-25",
-      "version": "0.0.4",
+      "version": "0.0.1",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/master/state-element.js",
       "visit_repo": "https://github.com/custom-cards/state-element",
       "changelog": "https://github.com/custom-cards/state-element/releases/latest"
