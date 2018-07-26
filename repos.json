@@ -11,7 +11,7 @@
       "version": "0.0.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/marquee-state-element/master/marquee-state-element.js",
       "visit_repo": "https://github.com/custom-cards/marquee-state-element",
-      "changelog": "https://github.com/custom-cards/marquee-state-element/blob/master/changelog.md"
+      "changelog": "https://github.com/custom-cards/marquee-state-element/releases/latest"
     },
     "monster-card": {
       "updated_at": "2018-07-23",
