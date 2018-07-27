@@ -1,10 +1,10 @@
 {
     "canvas-gauge-card": {
       "updated_at": "2018-07-27",
-      "version": "",
-      "remote_location": "",
-      "visit_repo": "",
-      "changelog": ""
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
+      "visit_repo": "https://github.com/custom-cards/canvas-gauge-card",
+      "changelog": "https://github.com/custom-cards/canvas-gauge-card/releases/latest"
     },
     "circle-sensor-card": {
       "updated_at": "2018-07-26",
