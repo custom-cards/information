@@ -78,7 +78,7 @@
         },
         "alarm_control_panel-card": {
           "updated_at": "Unkown",
-          "version": "0.3.1",
+          "version": "0.3.2",
           "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/alarm_control_panel-card/alarm_control_panel-card.js",
           "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/alarm_control_panel-card",
           "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/alarm_control_panel-card/changelog.md"
