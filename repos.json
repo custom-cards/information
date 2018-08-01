@@ -71,7 +71,7 @@
         },
         "group-card": {
           "updated_at": "Unkown",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/group-card/group-card.js",
           "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/group-card",
           "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/group-card/changelog.md"
