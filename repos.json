@@ -20,13 +20,6 @@
       "visit_repo": "https://github.com/custom-cards/marquee-state-element",
       "changelog": "https://github.com/custom-cards/marquee-state-element/releases/latest"
     },
-    "monster-card": {
-      "updated_at": "2018-07-23",
-      "version": "0.2.3",
-      "remote_location": "https://raw.githubusercontent.com/custom-cards/monster-card/master/monster-card.js",
-      "visit_repo": "https://github.com/custom-cards/monster-card",
-      "changelog": "https://github.com/custom-cards/monster-card/blob/master/changelog.md"
-    },
     "state-attribute-element": {
       "updated_at": "2018-07-31",
       "version": "0.0.4",
@@ -62,6 +55,13 @@
       "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card",
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
     },
+        "monster-card": {
+          "updated_at": "Unkown",
+          "version": "0.2.3",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/monster-card/monster-card.js",
+          "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card",
+          "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card/changelog.md"
+        },
         "entity-attributes-card": {
           "updated_at": "Unkown",
           "version": "0.1.0",
