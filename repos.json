@@ -76,6 +76,13 @@
           "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/group-card",
           "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/group-card/changelog.md"
         },
+        "thermostat-card": {
+          "updated_at": "Unkown",
+          "version": "0.0.1",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/thermostat-card/thermostat-card.js",
+          "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/thermostat-card",
+          "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/thermostat-card/changelog.md"
+        },
         "plan-coordinates": {
           "updated_at": "Unkown",
           "version": "0.1.0",
