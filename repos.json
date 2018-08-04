@@ -62,6 +62,13 @@
           "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card",
           "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card/changelog.md"
         },
+        "gauge-card": {
+          "updated_at": "Unkown",
+          "version": "0.0.1",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/gauge-card/gauge-card.js",
+          "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/gauge-card",
+          "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/gauge-card/changelog.md"
+        },
         "entity-attributes-card": {
           "updated_at": "Unkown",
           "version": "0.1.0",
