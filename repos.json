@@ -111,6 +111,13 @@
           "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/bignumber-card",
           "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/bignumber-card/changelog.md"
         },
+        "home-setter": {
+          "updated_at": "Unknown",
+          "version": "0.0.1",
+          "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/home-setter/home-setter.js",
+          "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/home-setter",
+          "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/home-setter/changelog.md"
+        },
         "beer-card": {
           "updated_at": "Unknown",
           "version": "0.2.3",
