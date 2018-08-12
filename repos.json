@@ -15,7 +15,7 @@
     },
     "circle-sensor-card": {
       "updated_at": "2018-08-08",
-      "version": "502: Failure",
+      "version": "1.2.0",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
       "visit_repo": "https://github.com/custom-cards/circle-sensor-card",
       "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
@@ -36,7 +36,7 @@
     },
     "state-element": {
       "updated_at": "2018-07-26",
-      "version": "502: Failure",
+      "version": "0.0.1",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/master/state-element.js",
       "visit_repo": "https://github.com/custom-cards/state-element",
       "changelog": "https://github.com/custom-cards/state-element/releases/latest"
