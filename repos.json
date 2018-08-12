@@ -8,42 +8,42 @@
     },
     "canvas-gauge-card": {
       "updated_at": "2018-08-11",
-      "version": "0.0.2",
+      "version": "502: Failure",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
       "visit_repo": "https://github.com/custom-cards/canvas-gauge-card",
       "changelog": "https://github.com/custom-cards/canvas-gauge-card/releases/latest"
     },
     "circle-sensor-card": {
       "updated_at": "2018-08-08",
-      "version": "1.2.0",
+      "version": "502: Failure",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
       "visit_repo": "https://github.com/custom-cards/circle-sensor-card",
       "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
     },
     "marquee-state-element": {
       "updated_at": "2018-07-24",
-      "version": "0.0.2",
+      "version": "502: Failure",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/marquee-state-element/master/marquee-state-element.js",
       "visit_repo": "https://github.com/custom-cards/marquee-state-element",
       "changelog": "https://github.com/custom-cards/marquee-state-element/releases/latest"
     },
     "state-attribute-element": {
       "updated_at": "2018-08-09",
-      "version": "0.0.4",
+      "version": "502: Failure",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/state-attribute-element/master/state-attribute-element.js",
       "visit_repo": "https://github.com/custom-cards/state-attribute-element",
       "changelog": "https://github.com/custom-cards/state-attribute-element/releases/latest"
     },
     "state-element": {
       "updated_at": "2018-07-26",
-      "version": "0.0.1",
+      "version": "502: Failure",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/master/state-element.js",
       "visit_repo": "https://github.com/custom-cards/state-element",
       "changelog": "https://github.com/custom-cards/state-element/releases/latest"
     },
     "text-element": {
       "updated_at": "2018-07-25",
-      "version": "0.0.2",
+      "version": "502: Failure",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/text-element/master/text-element.js",
       "visit_repo": "https://github.com/custom-cards/text-element",
       "changelog": "https://github.com/custom-cards/text-element/releases/latest"
@@ -57,7 +57,7 @@
     },
     "vertical-stack-in-card": {
       "updated_at": "2018-08-11",
-      "version": "0.0.6",
+      "version": "502: Failure",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/master/vertical-stack-in-card.js",
       "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card",
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
