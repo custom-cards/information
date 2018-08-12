@@ -8,7 +8,7 @@
     },
     "canvas-gauge-card": {
       "updated_at": "2018-08-11",
-      "version": "502: Failure",
+      "version": "0.0.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
       "visit_repo": "https://github.com/custom-cards/canvas-gauge-card",
       "changelog": "https://github.com/custom-cards/canvas-gauge-card/releases/latest"
@@ -18,7 +18,7 @@
       "version": "1.2.0",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
       "visit_repo": "https://github.com/custom-cards/circle-sensor-card",
-      "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
+      "changelog": "https://github.com/custom-cards/circle-sensor-card/blob/master/changelog.md"
     },
     "marquee-state-element": {
       "updated_at": "2018-07-24",
@@ -50,14 +50,14 @@
     },
     "tracker-card": {
       "updated_at": "2018-08-08",
-      "version": "502: Failure",
+      "version": "0.1.4",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/tracker-card/master/tracker-card.js",
       "visit_repo": "https://github.com/custom-cards/tracker-card",
       "changelog": "https://github.com/custom-cards/tracker-card/blob/master/changelog.md"
     },
     "vertical-stack-in-card": {
       "updated_at": "2018-08-11",
-      "version": "502: Failure",
+      "version": "0.0.6",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/master/vertical-stack-in-card.js",
       "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card",
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
