@@ -36,14 +36,14 @@
     },
     "state-element": {
       "updated_at": "2018-07-26",
-      "version": "502: Failure",
+      "version": "0.0.1",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/master/state-element.js",
       "visit_repo": "https://github.com/custom-cards/state-element",
       "changelog": "https://github.com/custom-cards/state-element/releases/latest"
     },
     "text-element": {
       "updated_at": "2018-07-25",
-      "version": "502: Failure",
+      "version": "0.0.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/text-element/master/text-element.js",
       "visit_repo": "https://github.com/custom-cards/text-element",
       "changelog": "https://github.com/custom-cards/text-element/releases/latest"
@@ -57,7 +57,7 @@
     },
     "vertical-stack-in-card": {
       "updated_at": "2018-08-11",
-      "version": "502: Failure",
+      "version": "0.0.6",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/master/vertical-stack-in-card.js",
       "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card",
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
