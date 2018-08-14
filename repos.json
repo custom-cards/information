@@ -22,7 +22,7 @@
     },
     "marquee-state-element": {
       "updated_at": "2018-08-14",
-      "version": "0.1.0",
+      "version": "999",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/marquee-state-element/master/marquee-state-element.js",
       "visit_repo": "https://github.com/custom-cards/marquee-state-element",
       "changelog": "https://github.com/custom-cards/marquee-state-element/releases/latest"
