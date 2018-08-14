@@ -21,8 +21,8 @@
       "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
     },
     "marquee-state-element": {
-      "updated_at": "2018-07-24",
-      "version": "0.0.2",
+      "updated_at": "2018-08-14",
+      "version": "0.1.0",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/marquee-state-element/master/marquee-state-element.js",
       "visit_repo": "https://github.com/custom-cards/marquee-state-element",
       "changelog": "https://github.com/custom-cards/marquee-state-element/releases/latest"
