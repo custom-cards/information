@@ -22,10 +22,10 @@
     },
     "ext-weblink": {
       "updated_at": "2018-08-15",
-      "version": "1.2.0",
-      "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
-      "visit_repo": "https://github.com/custom-cards/circle-sensor-card",
-      "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/ext-weblink/master/ext-weblink.js",
+      "visit_repo": "https://github.com/custom-cards/ext-weblink",
+      "changelog": "https://github.com/custom-cards/ext-weblink/releases/latest"
     },
     "state-attribute-element": {
       "updated_at": "2018-08-09",
