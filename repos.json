@@ -22,7 +22,7 @@
     },
     "ext-weblink": {
       "updated_at": "2018-08-16",
-      "version": "0.2.2",
+      "version": "0.3.0",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/ext-weblink/master/ext-weblink.js",
       "visit_repo": "https://github.com/custom-cards/ext-weblink",
       "changelog": "https://github.com/custom-cards/ext-weblink/releases/latest"
