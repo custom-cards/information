@@ -8,21 +8,21 @@
     },
     "canvas-gauge-card": {
       "updated_at": "2018-08-13",
-      "version": "0.0.2",
+      "version": "502: Failure",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
       "visit_repo": "https://github.com/custom-cards/canvas-gauge-card",
       "changelog": "https://github.com/custom-cards/canvas-gauge-card/releases/latest"
     },
     "circle-sensor-card": {
       "updated_at": "2018-08-13",
-      "version": "1.2.0",
+      "version": "502: Failure",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
       "visit_repo": "https://github.com/custom-cards/circle-sensor-card",
       "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
     },
     "ext-weblink": {
       "updated_at": "2018-08-16",
-      "version": "502: Failure",
+      "version": "0.3.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/ext-weblink/master/ext-weblink.js",
       "visit_repo": "https://github.com/custom-cards/ext-weblink",
       "changelog": "https://github.com/custom-cards/ext-weblink/releases/latest"
@@ -43,23 +43,7 @@
     },
     "text-element": {
       "updated_at": "2018-07-25",
-      "version": "
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>503 first byte timeout</title>
-  </head>
-  <body>
-    <h1>Error 503 first byte timeout</h1>
-    <p>first byte timeout</p>
-    <h3>Guru Mediation:</h3>
-    <p>Details: cache-iad2143-IAD 1534476081 248818302</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>",
+      "version": "502: Failure",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/text-element/master/text-element.js",
       "visit_repo": "https://github.com/custom-cards/text-element",
       "changelog": "https://github.com/custom-cards/text-element/releases/latest"
@@ -73,7 +57,7 @@
     },
     "vertical-stack-in-card": {
       "updated_at": "2018-08-16",
-      "version": "0.0.6",
+      "version": "502: Failure",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/master/vertical-stack-in-card.js",
       "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card",
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
