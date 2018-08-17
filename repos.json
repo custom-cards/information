@@ -1,10 +1,10 @@
 {
     "beer-wishlist-card": {
       "updated_at": "2018-08-07",
-      "version": "",
-      "remote_location": "",
-      "visit_repo": "",
-      "changelog": ""
+      "version": "404: Not Found",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/beer-wishlist-card/master/beer-wishlist-card.js",
+      "visit_repo": "https://github.com/custom-cards/beer-wishlist-card",
+      "changelog": "https://github.com/custom-cards/beer-wishlist-card/releases/latest"
     },
     "canvas-gauge-card": {
       "updated_at": "2018-08-13",
@@ -18,7 +18,7 @@
       "version": "1.2.0",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
       "visit_repo": "https://github.com/custom-cards/circle-sensor-card",
-      "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
+      "changelog": "https://github.com/custom-cards/circle-sensor-card/blob/master/changelog.md"
     },
     "ext-weblink": {
       "updated_at": "2018-08-16",
@@ -36,14 +36,46 @@
     },
     "state-element": {
       "updated_at": "2018-07-26",
-      "version": "502: Failure",
+      "version": "
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>503 first byte timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 first byte timeout</h1>
+    <p>first byte timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dca17724-DCA 1534475534 2156200208</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/master/state-element.js",
       "visit_repo": "https://github.com/custom-cards/state-element",
-      "changelog": "https://github.com/custom-cards/state-element/releases/latest"
+      "changelog": "https://github.com/custom-cards/state-element/blob/master/changelog.md"
     },
     "text-element": {
       "updated_at": "2018-07-25",
-      "version": "0.0.2",
+      "version": "
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>503 first byte timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 first byte timeout</h1>
+    <p>first byte timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-dca17750-DCA 1534475580 780029014</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/text-element/master/text-element.js",
       "visit_repo": "https://github.com/custom-cards/text-element",
       "changelog": "https://github.com/custom-cards/text-element/releases/latest"
