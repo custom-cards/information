@@ -22,7 +22,7 @@
     },
     "ext-weblink": {
       "updated_at": "2018-08-16",
-      "version": "0.3.2",
+      "version": "502: Failure",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/ext-weblink/master/ext-weblink.js",
       "visit_repo": "https://github.com/custom-cards/ext-weblink",
       "changelog": "https://github.com/custom-cards/ext-weblink/releases/latest"
@@ -36,7 +36,7 @@
     },
     "state-element": {
       "updated_at": "2018-07-26",
-      "version": "502: Failure",
+      "version": "0.0.1",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/master/state-element.js",
       "visit_repo": "https://github.com/custom-cards/state-element",
       "changelog": "https://github.com/custom-cards/state-element/releases/latest"
