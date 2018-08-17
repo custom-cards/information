@@ -8,7 +8,23 @@
     },
     "canvas-gauge-card": {
       "updated_at": "2018-08-13",
-      "version": "0.0.2",
+      "version": "
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>503 first byte timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 first byte timeout</h1>
+    <p>first byte timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-iad2147-IAD 1534471287 620769625</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
       "visit_repo": "https://github.com/custom-cards/canvas-gauge-card",
       "changelog": "https://github.com/custom-cards/canvas-gauge-card/releases/latest"
@@ -39,14 +55,14 @@
       "version": "0.0.1",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/master/state-element.js",
       "visit_repo": "https://github.com/custom-cards/state-element",
-      "changelog": "https://github.com/custom-cards/state-element/releases/latest"
+      "changelog": "https://github.com/custom-cards/state-element/blob/master/changelog.md"
     },
     "text-element": {
       "updated_at": "2018-07-25",
       "version": "0.0.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/text-element/master/text-element.js",
       "visit_repo": "https://github.com/custom-cards/text-element",
-      "changelog": "https://github.com/custom-cards/text-element/releases/latest"
+      "changelog": "https://github.com/custom-cards/text-element/blob/master/changelog.md"
     },
     "tracker-card": {
       "updated_at": "2018-08-14",
