@@ -15,26 +15,10 @@
     },
     "circle-sensor-card": {
       "updated_at": "2018-08-13",
-      "version": "
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>503 first byte timeout</title>
-  </head>
-  <body>
-    <h1>Error 503 first byte timeout</h1>
-    <p>first byte timeout</p>
-    <h3>Guru Mediation:</h3>
-    <p>Details: cache-bma1640-BMA 1534514553 2038246960</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>",
+      "version": "1.2.0",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
       "visit_repo": "https://github.com/custom-cards/circle-sensor-card",
-      "changelog": "https://github.com/custom-cards/circle-sensor-card/blob/master/changelog.md"
+      "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
     },
     "ext-weblink": {
       "updated_at": "2018-08-16",
