@@ -1,10 +1,10 @@
 {
     "beer-wishlist-card": {
       "updated_at": "2018-08-07",
-      "version": "",
-      "remote_location": "",
-      "visit_repo": "",
-      "changelog": ""
+      "version": "404: Not Found",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/beer-wishlist-card/master/beer-wishlist-card.js",
+      "visit_repo": "https://github.com/custom-cards/beer-wishlist-card",
+      "changelog": "https://github.com/custom-cards/beer-wishlist-card/releases/latest"
     },
     "canvas-gauge-card": {
       "updated_at": "2018-08-13",
@@ -18,7 +18,7 @@
       "version": "1.2.0",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
       "visit_repo": "https://github.com/custom-cards/circle-sensor-card",
-      "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
+      "changelog": "https://github.com/custom-cards/circle-sensor-card/blob/master/changelog.md"
     },
     "ext-weblink": {
       "updated_at": "2018-08-16",
