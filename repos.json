@@ -1,17 +1,17 @@
 {
     "aftership-card": {
       "updated_at": "2018-08-17",
-      "version": "",
-      "remote_location": "",
-      "visit_repo": "",
-      "changelog": ""
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/master/aftership-card.js",
+      "visit_repo": "https://github.com/custom-cards/aftership-card",
+      "changelog": "https://github.com/custom-cards/aftership-card/releases/latest"
     },
     "beer-wishlist-card": {
       "updated_at": "2018-08-07",
-      "version": "",
-      "remote_location": "",
-      "visit_repo": "",
-      "changelog": ""
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/master/aftership-card.js",
+      "visit_repo": "https://github.com/custom-cards/aftership-card",
+      "changelog": "https://github.com/custom-cards/aftership-card/releases/latest"
     },
     "canvas-gauge-card": {
       "updated_at": "2018-08-13",
@@ -61,6 +61,13 @@
       "remote_location": "https://raw.githubusercontent.com/custom-cards/tracker-card/master/tracker-card.js",
       "visit_repo": "https://github.com/custom-cards/tracker-card",
       "changelog": "https://github.com/custom-cards/tracker-card/blob/master/changelog.md"
+    },
+    "username-element": {
+      "updated_at": "2018-08-17",
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/username-element/master/username-element.js",
+      "visit_repo": "https://github.com/custom-cards/username-element",
+      "changelog": "https://github.com/custom-cards/username-element/releases/latest"
     },
     "vertical-stack-in-card": {
       "updated_at": "2018-08-16",
