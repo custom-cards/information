@@ -14,14 +14,14 @@
       "changelog": "https://github.com/custom-cards/aftership-card/releases/latest"
     },
     "canvas-gauge-card": {
-      "updated_at": "2018-08-13",
+      "updated_at": "2018-08-17",
       "version": "0.0.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
       "visit_repo": "https://github.com/custom-cards/canvas-gauge-card",
       "changelog": "https://github.com/custom-cards/canvas-gauge-card/releases/latest"
     },
     "circle-sensor-card": {
-      "updated_at": "2018-08-13",
+      "updated_at": "2018-08-17",
       "version": "1.2.0",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
       "visit_repo": "https://github.com/custom-cards/circle-sensor-card",
