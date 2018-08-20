@@ -29,7 +29,23 @@
     },
     "ext-weblink": {
       "updated_at": "2018-08-16",
-      "version": "0.3.2",
+      "version": "
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>503 first byte timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 first byte timeout</h1>
+    <p>first byte timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-bma1642-BMA 1534804354 1393145817</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/ext-weblink/master/ext-weblink.js",
       "visit_repo": "https://github.com/custom-cards/ext-weblink",
       "changelog": "https://github.com/custom-cards/ext-weblink/releases/latest"
@@ -39,7 +55,7 @@
       "version": "0.0.4",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/state-attribute-element/master/state-attribute-element.js",
       "visit_repo": "https://github.com/custom-cards/state-attribute-element",
-      "changelog": "https://github.com/custom-cards/state-attribute-element/releases/latest"
+      "changelog": "https://github.com/custom-cards/state-attribute-element/blob/master/changelog.md"
     },
     "state-element": {
       "updated_at": "2018-07-26",
