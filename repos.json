@@ -36,10 +36,10 @@
     },
     "list-card": {
       "updated_at": "2018-08-20",
-      "version": "0.3.2",
-      "remote_location": "https://raw.githubusercontent.com/custom-cards/ext-weblink/master/ext-weblink.js",
-      "visit_repo": "https://github.com/custom-cards/ext-weblink",
-      "changelog": "https://github.com/custom-cards/ext-weblink/releases/latest"
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/master/list-card.js",
+      "visit_repo": "https://github.com/custom-cards/list-card",
+      "changelog": "https://github.com/custom-cards/list-card/releases/latest"
     },
     "state-attribute-element": {
       "updated_at": "2018-08-09",
