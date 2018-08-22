@@ -83,24 +83,24 @@
       "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card",
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
     },
-  "lovelace-column-card": {
+  "column-card": {
     "updated_at": "2018-07-30",
     "version": "7221e1",
-    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-column-card/master/lovelace-column-card.js",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-column-card/master/column-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-column-card",
     "changelog": "https://github.com/thomasloven/lovelace-column-card"
   },
-  "fullykiosk": {
+  "lovelace-fullykiosk": {
     "updated_at": "2018-08-17",
     "version": "fdd0f1",
-    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/fullykiosk.js",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/lovelace-fullykiosk.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk",
     "changelog": "https://github.com/thomasloven/lovelace-fullykiosk"
   },
-  "player": {
+  "lovelace-player": {
     "updated_at": "2018-08-16",
     "version": "a37f4c",
-    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/player.js",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/lovelace-player.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-player",
     "changelog": "https://github.com/thomasloven/lovelace-player"
   },
@@ -111,10 +111,10 @@
     "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row",
     "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row"
   },
-  "lovelace-time-input-row": {
+  "time-input-row": {
     "updated_at": "2018-08-16",
     "version": "f503b7",
-    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-time-input-row/master/lovelace-time-input-row.js",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-time-input-row/master/time-input-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-time-input-row",
     "changelog": "https://github.com/thomasloven/lovelace-time-input-row"
   },
