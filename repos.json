@@ -36,7 +36,7 @@
     },
     "list-card": {
       "updated_at": "2018-08-22",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/master/list-card.js",
       "visit_repo": "https://github.com/custom-cards/list-card",
       "changelog": "https://github.com/custom-cards/list-card/releases/latest"
