@@ -83,31 +83,31 @@
       "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card",
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
     },
-  "": {
+  "lovelace-column-card": {
     "updated_at": "2018-07-30",
     "version": "7221e1",
-    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-column-card/master/.js",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-column-card/master/lovelace-column-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-column-card",
     "changelog": "https://github.com/thomasloven/lovelace-column-card"
   },
-  "lovelace-fullykiosk": {
+  "fullykiosk": {
     "updated_at": "2018-08-17",
     "version": "fdd0f1",
-    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/lovelace-fullykiosk.js",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/fullykiosk.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk",
     "changelog": "https://github.com/thomasloven/lovelace-fullykiosk"
   },
-  "lovelace-fullykiosk": {
+  "player": {
     "updated_at": "2018-08-16",
     "version": "a37f4c",
-    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/lovelace-fullykiosk.js",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/player.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-player",
     "changelog": "https://github.com/thomasloven/lovelace-player"
   },
-  "lovelace-slider-entity-row": {
+  "slider-entity-row": {
     "updated_at": "2018-08-21",
     "version": "11fc8d",
-    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/lovelace-slider-entity-row.js",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row",
     "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row"
   },
@@ -118,10 +118,10 @@
     "visit_repo": "https://github.com/thomasloven/lovelace-time-input-row",
     "changelog": "https://github.com/thomasloven/lovelace-time-input-row"
   },
-  "lovelace-useful-markdown-card": {
+  "useful-markdown-card": {
     "updated_at": "2018-08-17",
     "version": "b428b0",
-    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/lovelace-useful-markdown-card.js",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/useful-markdown-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card",
     "changelog": "https://github.com/thomasloven/lovelace-useful-markdown-card"
   },
