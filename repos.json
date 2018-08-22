@@ -155,7 +155,7 @@
         },
         "thermostat-card": {
           "updated_at": "Unknown",
-          "version": "0.1.0",
+          "version": "0.1.1",
           "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/thermostat-card/thermostat-card.js",
           "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/thermostat-card",
           "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/thermostat-card/changelog.md"
