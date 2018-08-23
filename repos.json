@@ -98,7 +98,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-fullykiosk"
   },
   "lovelace-player": {
-    "updated_at": "2018-08-16",
+    "updated_at": "2018-08-23",
     "version": "a37f4c",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/lovelace-player.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-player",
