@@ -83,6 +83,13 @@
       "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card",
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
     },
+  "color-glance-card": {
+    "updated_at": "2018-08-24",
+    "version": "64be02",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-color-glance-card/master/color-glance-card.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-color-glance-card",
+    "changelog": "https://github.com/thomasloven/lovelace-color-glance-card"
+  },
   "column-card": {
     "updated_at": "2018-07-30",
     "version": "7221e1",
