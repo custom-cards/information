@@ -98,21 +98,21 @@
     "changelog": "https://github.com/thomasloven/lovelace-column-card"
   },
   "lovelace-fullykiosk": {
-    "updated_at": "2018-08-17",
+    "updated_at": "2018-08-25",
     "version": "fdd0f1",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/lovelace-fullykiosk.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk",
     "changelog": "https://github.com/thomasloven/lovelace-fullykiosk"
   },
   "lovelace-player": {
-    "updated_at": "2018-08-23",
+    "updated_at": "2018-08-25",
     "version": "a37f4c",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/lovelace-player.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-player",
     "changelog": "https://github.com/thomasloven/lovelace-player"
   },
   "slider-entity-row": {
-    "updated_at": "2018-08-21",
+    "updated_at": "2018-08-25",
     "version": "11fc8d",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row",
