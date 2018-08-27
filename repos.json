@@ -41,6 +41,13 @@
       "visit_repo": "https://github.com/custom-cards/list-card",
       "changelog": "https://github.com/custom-cards/list-card/releases/latest"
     },
+    "rmv-card": {
+      "updated_at": "2018-08-27",
+      "version": "999",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/marquee-state-element/master/marquee-state-element.js",
+      "visit_repo": "https://github.com/custom-cards/marquee-state-element",
+      "changelog": "https://github.com/custom-cards/marquee-state-element/releases/latest"
+    },
     "state-attribute-element": {
       "updated_at": "2018-08-09",
       "version": "0.0.4",
