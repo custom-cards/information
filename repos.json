@@ -90,6 +90,13 @@
       "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card",
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
     },
+  "card-modder": {
+    "updated_at": "2018-08-28",
+    "version": "5e556d",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-card-modder",
+    "changelog": "https://github.com/thomasloven/lovelace-card-modder"
+  },
   "color-glance-card": {
     "updated_at": "2018-08-24",
     "version": "64be02",
