@@ -125,6 +125,13 @@
     "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk",
     "changelog": "https://github.com/thomasloven/lovelace-fullykiosk"
   },
+  "long-press": {
+    "updated_at": "2018-08-31",
+    "version": "acd21b",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-long-press/master/long-press.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-long-press",
+    "changelog": "https://github.com/thomasloven/lovelace-long-press"
+  },
   "lovelace-player": {
     "updated_at": "2018-08-25",
     "version": "a37f4c",
