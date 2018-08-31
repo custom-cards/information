@@ -127,7 +127,7 @@
   },
   "long-press": {
     "updated_at": "2018-08-31",
-    "version": "acd21b",
+    "version": "bdaa21",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-long-press/master/long-press.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-long-press",
     "changelog": "https://github.com/thomasloven/lovelace-long-press"
