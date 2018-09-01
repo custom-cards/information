@@ -78,7 +78,7 @@
     },
     "upcoming-media-card": {
       "updated_at": "2018-09-01",
-      "version": "0.0.8",
+      "version": "0.0.9",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/upcoming-media-card/master/upcoming-media-card.js",
       "visit_repo": "https://github.com/custom-cards/upcoming-media-card",
       "changelog": "https://github.com/custom-cards/upcoming-media-card/releases/latest"
