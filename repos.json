@@ -147,7 +147,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-player"
   },
   "slider-entity-row": {
-    "updated_at": "2018-09-08",
+    "updated_at": "2018-09-09",
     "version": "2d9e00",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row",
