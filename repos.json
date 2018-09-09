@@ -77,7 +77,7 @@
       "changelog": "https://github.com/custom-cards/text-element/releases/latest"
     },
     "tracker-card": {
-      "updated_at": "2018-09-08",
+      "updated_at": "2018-09-09",
       "version": "0.1.4",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/tracker-card/master/tracker-card.js",
       "visit_repo": "https://github.com/custom-cards/tracker-card",
