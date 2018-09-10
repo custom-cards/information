@@ -35,7 +35,7 @@
       "changelog": "https://github.com/custom-cards/ext-weblink/releases/latest"
     },
     "list-card": {
-      "updated_at": "2018-08-30",
+      "updated_at": "2018-09-10",
       "version": "0.0.6",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/master/list-card.js",
       "visit_repo": "https://github.com/custom-cards/list-card",
