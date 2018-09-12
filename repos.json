@@ -126,7 +126,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-column-card"
   },
   "lovelace-fullykiosk": {
-    "updated_at": "2018-09-08",
+    "updated_at": "2018-09-12",
     "version": "fdd0f1",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/lovelace-fullykiosk.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk",
