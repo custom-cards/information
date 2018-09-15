@@ -14,7 +14,7 @@
       "changelog": "https://github.com/custom-cards/aftership-card/releases/latest"
     },
     "canvas-gauge-card": {
-      "updated_at": "2018-08-27",
+      "updated_at": "2018-09-15",
       "version": "0.0.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
       "visit_repo": "https://github.com/custom-cards/canvas-gauge-card",
