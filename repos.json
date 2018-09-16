@@ -21,7 +21,7 @@
       "changelog": "https://github.com/custom-cards/canvas-gauge-card/releases/latest"
     },
     "circle-sensor-card": {
-      "updated_at": "2018-08-17",
+      "updated_at": "2018-09-16",
       "version": "1.2.0",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
       "visit_repo": "https://github.com/custom-cards/circle-sensor-card",
@@ -35,7 +35,7 @@
       "changelog": "https://github.com/custom-cards/ext-weblink/releases/latest"
     },
     "list-card": {
-      "updated_at": "2018-09-10",
+      "updated_at": "2018-09-16",
       "version": "0.0.6",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/master/list-card.js",
       "visit_repo": "https://github.com/custom-cards/list-card",
