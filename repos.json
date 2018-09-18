@@ -84,7 +84,7 @@
       "changelog": "https://github.com/custom-cards/tracker-card/blob/master/changelog.md"
     },
     "upcoming-media-card": {
-      "updated_at": "2018-09-16",
+      "updated_at": "2018-09-18",
       "version": "0.1.9",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/upcoming-media-card/master/upcoming-media-card.js",
       "visit_repo": "https://github.com/custom-cards/upcoming-media-card",
