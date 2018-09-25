@@ -106,7 +106,7 @@
     },
   "card-modder": {
     "updated_at": "2018-09-24",
-    "version": "b6818a",
+    "version": "e6b175",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-card-modder",
     "changelog": "https://github.com/thomasloven/lovelace-card-modder"
@@ -140,7 +140,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-long-press"
   },
   "lovelace-player": {
-    "updated_at": "2018-09-21",
+    "updated_at": "2018-09-25",
     "version": "a37f4c",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/lovelace-player.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-player",
