@@ -127,7 +127,7 @@
   },
   "folding-group-entity-row": {
     "updated_at": "2018-09-28",
-    "version": "",
+    "version": "1a68f9",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-folding-group-entity-row/master/folding-group-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-folding-group-entity-row",
     "changelog": "https://github.com/thomasloven/lovelace-folding-group-entity-row"
