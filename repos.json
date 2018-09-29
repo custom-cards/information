@@ -133,7 +133,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-folding-group-entity-row"
   },
   "lovelace-fullykiosk": {
-    "updated_at": "2018-09-27",
+    "updated_at": "2018-09-29",
     "version": "f9db0f",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/lovelace-fullykiosk.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk",
