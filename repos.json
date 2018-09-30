@@ -140,7 +140,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-fullykiosk"
   },
   "long-press": {
-    "updated_at": "2018-09-26",
+    "updated_at": "2018-09-30",
     "version": "252428",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-long-press/master/long-press.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-long-press",
