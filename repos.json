@@ -14,7 +14,7 @@
       "changelog": "https://github.com/custom-cards/aftership-card/releases/latest"
     },
     "button-entity-row": {
-      "updated_at": "2018-10-02",
+      "updated_at": "2018-10-03",
       "version": "0.0.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/master/aftership-card.js",
       "visit_repo": "https://github.com/custom-cards/aftership-card",
