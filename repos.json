@@ -15,10 +15,10 @@
     },
     "button-entity-row": {
       "updated_at": "2018-10-03",
-      "version": "0.0.2",
-      "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/master/aftership-card.js",
-      "visit_repo": "https://github.com/custom-cards/aftership-card",
-      "changelog": "https://github.com/custom-cards/aftership-card/releases/latest"
+      "version": "0.1.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/button-entity-row/master/button-entity-row.js",
+      "visit_repo": "https://github.com/custom-cards/button-entity-row",
+      "changelog": "https://github.com/custom-cards/button-entity-row/releases/latest"
     },
     "canvas-gauge-card": {
       "updated_at": "2018-09-15",
@@ -43,10 +43,10 @@
     },
     "light-entity-row": {
       "updated_at": "2018-10-03",
-      "version": "0.3.2",
-      "remote_location": "https://raw.githubusercontent.com/custom-cards/ext-weblink/master/ext-weblink.js",
-      "visit_repo": "https://github.com/custom-cards/ext-weblink",
-      "changelog": "https://github.com/custom-cards/ext-weblink/releases/latest"
+      "version": "0.1.2",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/light-entity-row/master/light-entity-row.js",
+      "visit_repo": "https://github.com/custom-cards/light-entity-row",
+      "changelog": "https://github.com/custom-cards/light-entity-row/releases/latest"
     },
     "list-card": {
       "updated_at": "2018-09-16",
