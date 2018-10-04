@@ -43,7 +43,7 @@
     },
     "light-entity-row": {
       "updated_at": "2018-10-04",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/light-entity-row/master/light-entity-row.js",
       "visit_repo": "https://github.com/custom-cards/light-entity-row",
       "changelog": "https://github.com/custom-cards/light-entity-row/releases/latest"
