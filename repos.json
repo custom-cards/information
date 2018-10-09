@@ -126,7 +126,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-card-modder"
   },
   "color-glance-card": {
-    "updated_at": "2018-08-24",
+    "updated_at": "2018-10-09",
     "version": "64be02",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-color-glance-card/master/color-glance-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-color-glance-card",
@@ -140,7 +140,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-column-card"
   },
   "folding-group-entity-row": {
-    "updated_at": "2018-10-01",
+    "updated_at": "2018-10-09",
     "version": "98faea",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-folding-group-entity-row/master/folding-group-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-folding-group-entity-row",
@@ -175,21 +175,21 @@
     "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row"
   },
   "time-input-row": {
-    "updated_at": "2018-08-24",
+    "updated_at": "2018-10-09",
     "version": "f503b7",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-time-input-row/master/time-input-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-time-input-row",
     "changelog": "https://github.com/thomasloven/lovelace-time-input-row"
   },
   "toggle-lock-entity-row": {
-    "updated_at": "2018-10-01",
+    "updated_at": "2018-10-09",
     "version": "a57ac1",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-toggle-lock-entity-row/master/toggle-lock-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row",
     "changelog": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row"
   },
   "useful-markdown-card": {
-    "updated_at": "2018-09-30",
+    "updated_at": "2018-10-09",
     "version": "54a046",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/useful-markdown-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card",
