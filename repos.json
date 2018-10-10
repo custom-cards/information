@@ -49,8 +49,8 @@
       "changelog": "https://github.com/custom-cards/light-entity-row/releases/latest"
     },
     "list-card": {
-      "updated_at": "2018-09-16",
-      "version": "0.0.6",
+      "updated_at": "2018-10-10",
+      "version": "0.0.7",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/master/list-card.js",
       "visit_repo": "https://github.com/custom-cards/list-card",
       "changelog": "https://github.com/custom-cards/list-card/releases/latest"
