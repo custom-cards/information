@@ -42,7 +42,7 @@
       "changelog": "https://github.com/custom-cards/ext-weblink/releases/latest"
     },
     "light-entity-row": {
-      "updated_at": "2018-10-04",
+      "updated_at": "2018-10-11",
       "version": "0.2.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/light-entity-row/master/light-entity-row.js",
       "visit_repo": "https://github.com/custom-cards/light-entity-row",
