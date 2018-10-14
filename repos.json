@@ -140,7 +140,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-column-card"
   },
   "folding-group-entity-row": {
-    "updated_at": "2018-10-09",
+    "updated_at": "2018-10-14",
     "version": "98faea",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-folding-group-entity-row/master/folding-group-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-folding-group-entity-row",
