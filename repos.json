@@ -112,15 +112,15 @@
       "changelog": "https://github.com/custom-cards/username-element/releases/latest"
     },
     "vertical-stack-in-card": {
-      "updated_at": "2018-10-13",
+      "updated_at": "2018-10-15",
       "version": "0.0.6",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/master/vertical-stack-in-card.js",
       "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card",
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
     },
   "card-modder": {
-    "updated_at": "2018-10-13",
-    "version": "e6b175",
+    "updated_at": "2018-10-15",
+    "version": "c52684",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-card-modder",
     "changelog": "https://github.com/thomasloven/lovelace-card-modder"
