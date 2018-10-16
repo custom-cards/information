@@ -119,7 +119,7 @@
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
     },
   "card-modder": {
-    "updated_at": "2018-10-15",
+    "updated_at": "2018-10-16",
     "version": "8779bb",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-card-modder",
@@ -133,7 +133,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-color-glance-card"
   },
   "column-card": {
-    "updated_at": "2018-10-15",
+    "updated_at": "2018-10-16",
     "version": "7221e1",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-column-card/master/column-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-column-card",
@@ -168,7 +168,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-player"
   },
   "slider-entity-row": {
-    "updated_at": "2018-10-15",
+    "updated_at": "2018-10-16",
     "version": "2d9e00",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row",
