@@ -139,12 +139,12 @@
     "visit_repo": "https://github.com/thomasloven/lovelace-column-card",
     "changelog": "https://github.com/thomasloven/lovelace-column-card"
   },
-  "folding-group-entity-row": {
-    "updated_at": "2018-10-14",
+  "fold-entity-row": {
+    "updated_at": "2018-10-16",
     "version": "98faea",
-    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-folding-group-entity-row/master/folding-group-entity-row.js",
-    "visit_repo": "https://github.com/thomasloven/lovelace-folding-group-entity-row",
-    "changelog": "https://github.com/thomasloven/lovelace-folding-group-entity-row"
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row",
+    "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row"
   },
   "lovelace-fullykiosk": {
     "updated_at": "2018-10-16",
