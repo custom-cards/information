@@ -133,8 +133,8 @@
     "changelog": "https://github.com/thomasloven/lovelace-color-glance-card"
   },
   "column-card": {
-    "updated_at": "2018-10-16",
-    "version": "7221e1",
+    "updated_at": "2018-10-17",
+    "version": "e7fb09",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-column-card/master/column-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-column-card",
     "changelog": "https://github.com/thomasloven/lovelace-column-card"
