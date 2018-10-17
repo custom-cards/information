@@ -113,7 +113,7 @@
     },
     "vertical-stack-in-card": {
       "updated_at": "2018-10-17",
-      "version": "0.0.7",
+      "version": "0.0.8",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/master/vertical-stack-in-card.js",
       "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card",
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
