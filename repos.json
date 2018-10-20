@@ -63,8 +63,8 @@
       "changelog": "https://github.com/custom-cards/marquee-state-element/releases/latest"
     },
     "state-attribute-element": {
-      "updated_at": "2018-10-13",
-      "version": "0.1.0",
+      "updated_at": "2018-10-20",
+      "version": "0.2.0",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/state-attribute-element/master/state-attribute-element.js",
       "visit_repo": "https://github.com/custom-cards/state-attribute-element",
       "changelog": "https://github.com/custom-cards/state-attribute-element/releases/latest"
