@@ -119,7 +119,7 @@
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
     },
   "card-modder": {
-    "updated_at": "2018-10-20",
+    "updated_at": "2018-10-28",
     "version": "1c480b",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-card-modder",
@@ -189,7 +189,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row"
   },
   "useful-markdown-card": {
-    "updated_at": "2018-10-27",
+    "updated_at": "2018-10-28",
     "version": "bac550",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/useful-markdown-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card",
