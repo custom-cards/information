@@ -127,7 +127,7 @@
   },
   "color-glance-card": {
     "updated_at": "2018-10-15",
-    "version": "",
+    "version": "4717b8",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-color-glance-card/master/color-glance-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-color-glance-card",
     "changelog": "https://github.com/thomasloven/lovelace-color-glance-card"
