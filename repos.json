@@ -148,7 +148,7 @@
   },
   "lovelace-fullykiosk": {
     "updated_at": "2018-10-25",
-    "version": "96feda",
+    "version": "",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/lovelace-fullykiosk.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk",
     "changelog": "https://github.com/thomasloven/lovelace-fullykiosk"
