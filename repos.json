@@ -147,7 +147,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row"
   },
   "lovelace-fullykiosk": {
-    "updated_at": "2018-10-30",
+    "updated_at": "2018-10-31",
     "version": "96feda",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/lovelace-fullykiosk.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk",
@@ -161,7 +161,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-long-press"
   },
   "lovelace-player": {
-    "updated_at": "2018-10-30",
+    "updated_at": "2018-10-31",
     "version": "c2a43b",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/lovelace-player.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-player",
