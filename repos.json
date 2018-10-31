@@ -190,7 +190,7 @@
   },
   "useful-markdown-card": {
     "updated_at": "2018-10-30",
-    "version": "bac550",
+    "version": "",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/useful-markdown-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card",
     "changelog": "https://github.com/thomasloven/lovelace-useful-markdown-card"
