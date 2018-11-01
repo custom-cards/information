@@ -119,8 +119,8 @@
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
     },
   "card-modder": {
-    "updated_at": "2018-10-31",
-    "version": "fc1adb",
+    "updated_at": "2018-11-01",
+    "version": "840e70",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-card-modder",
     "changelog": "https://github.com/thomasloven/lovelace-card-modder"
