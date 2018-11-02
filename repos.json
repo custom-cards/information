@@ -182,7 +182,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-time-input-row"
   },
   "toggle-lock-entity-row": {
-    "updated_at": "2018-10-30",
+    "updated_at": "2018-11-02",
     "version": "a57ac1",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-toggle-lock-entity-row/master/toggle-lock-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row",
