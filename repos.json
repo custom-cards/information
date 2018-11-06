@@ -35,7 +35,7 @@
       "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
     },
     "ext-weblink": {
-      "updated_at": "2018-08-16",
+      "updated_at": "2018-11-06",
       "version": "0.3.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/ext-weblink/master/ext-weblink.js",
       "visit_repo": "https://github.com/custom-cards/ext-weblink",
