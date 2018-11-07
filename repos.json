@@ -175,8 +175,8 @@
     "changelog": "https://github.com/thomasloven/lovelace-player"
   },
   "popup-card": {
-    "updated_at": "2018-11-06",
-    "version": "ea49b6",
+    "updated_at": "2018-11-07",
+    "version": "a7a84e",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-popup-card",
     "changelog": "https://github.com/thomasloven/lovelace-popup-card"
