@@ -175,7 +175,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-player"
   },
   "popup-card": {
-    "updated_at": "2018-11-07",
+    "updated_at": "2018-11-08",
     "version": "81d153",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-popup-card",
@@ -203,7 +203,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row"
   },
   "useful-markdown-card": {
-    "updated_at": "2018-10-30",
+    "updated_at": "2018-11-08",
     "version": "bac550",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/useful-markdown-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card",
