@@ -190,7 +190,7 @@
   },
   "time-input-row": {
     "updated_at": "2018-11-08",
-    "version": "f503b7",
+    "version": "",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-time-input-row/master/time-input-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-time-input-row",
     "changelog": "https://github.com/thomasloven/lovelace-time-input-row"
