@@ -141,7 +141,7 @@
   },
   "fold-entity-row": {
     "updated_at": "2018-11-08",
-    "version": "855537",
+    "version": "",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row",
     "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row"
@@ -155,7 +155,7 @@
   },
   "layout-card": {
     "updated_at": "2018-11-13",
-    "version": "",
+    "version": "7db164",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-layout-card",
     "changelog": "https://github.com/thomasloven/lovelace-layout-card"
