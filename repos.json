@@ -160,10 +160,10 @@
     "visit_repo": "https://github.com/thomasloven/lovelace-layout-card",
     "changelog": "https://github.com/thomasloven/lovelace-layout-card"
   },
-  "long-press": {
+  "lovelace-long-press": {
     "updated_at": "2018-10-30",
     "version": "ca07e2",
-    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-long-press/master/long-press.js",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-long-press/master/lovelace-long-press.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-long-press",
     "changelog": "https://github.com/thomasloven/lovelace-long-press"
   },
