@@ -88,7 +88,7 @@
       "version": "0.0.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/text-element/master/text-element.js",
       "visit_repo": "https://github.com/custom-cards/text-element",
-      "changelog": "https://github.com/custom-cards/text-element/releases/latest"
+      "changelog": "https://github.com/custom-cards/text-element/blob/master/changelog.md"
     },
     "tracker-card": {
       "updated_at": "2018-11-10",
