@@ -32,7 +32,7 @@
       "version": "1.2.0",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
       "visit_repo": "https://github.com/custom-cards/circle-sensor-card",
-      "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
+      "changelog": "https://github.com/custom-cards/circle-sensor-card/blob/master/changelog.md"
     },
     "ext-weblink": {
       "updated_at": "2018-11-06",
