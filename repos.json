@@ -154,7 +154,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-fullykiosk"
   },
   "layout-card": {
-    "updated_at": "2018-11-13",
+    "updated_at": "2018-11-14",
     "version": "7db164",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-layout-card",
@@ -175,7 +175,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-player"
   },
   "popup-card": {
-    "updated_at": "2018-11-09",
+    "updated_at": "2018-11-14",
     "version": "019d45",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-popup-card",
