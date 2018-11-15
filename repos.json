@@ -8,10 +8,10 @@
     },
     "beer-wishlist-card": {
       "updated_at": "2018-08-07",
-      "version": "0.0.2",
-      "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/master/aftership-card.js",
-      "visit_repo": "https://github.com/custom-cards/aftership-card",
-      "changelog": "https://github.com/custom-cards/aftership-card/releases/latest"
+      "version": "404: Not Found",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/beer-wishlist-card/master/beer-wishlist-card.js",
+      "visit_repo": "https://github.com/custom-cards/beer-wishlist-card",
+      "changelog": "https://github.com/custom-cards/beer-wishlist-card/releases/latest"
     },
     "button-entity-row": {
       "updated_at": "2018-10-11",
