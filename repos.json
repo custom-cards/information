@@ -1,4 +1,123 @@
 {
+    "aftership-card": {
+      "updated_at": "2018-08-18",
+      "version": "0.0.2",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/master/aftership-card.js",
+      "visit_repo": "https://github.com/custom-cards/aftership-card",
+      "changelog": "https://github.com/custom-cards/aftership-card/releases/latest"
+    },
+    "beer-wishlist-card": {
+      "updated_at": "2018-08-07",
+      "version": "0.0.2",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/master/aftership-card.js",
+      "visit_repo": "https://github.com/custom-cards/aftership-card",
+      "changelog": "https://github.com/custom-cards/aftership-card/releases/latest"
+    },
+    "button-entity-row": {
+      "updated_at": "2018-10-11",
+      "version": "0.1.4",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/button-entity-row/master/button-entity-row.js",
+      "visit_repo": "https://github.com/custom-cards/button-entity-row",
+      "changelog": "https://github.com/custom-cards/button-entity-row/releases/latest"
+    },
+    "canvas-gauge-card": {
+      "updated_at": "2018-11-13",
+      "version": "0.0.2",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
+      "visit_repo": "https://github.com/custom-cards/canvas-gauge-card",
+      "changelog": "https://github.com/custom-cards/canvas-gauge-card/releases/latest"
+    },
+    "circle-sensor-card": {
+      "updated_at": "2018-10-22",
+      "version": "1.2.0",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
+      "visit_repo": "https://github.com/custom-cards/circle-sensor-card",
+      "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
+    },
+    "ext-weblink": {
+      "updated_at": "2018-11-06",
+      "version": "0.3.2",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/ext-weblink/master/ext-weblink.js",
+      "visit_repo": "https://github.com/custom-cards/ext-weblink",
+      "changelog": "https://github.com/custom-cards/ext-weblink/releases/latest"
+    },
+    "light-entity-row": {
+      "updated_at": "2018-10-11",
+      "version": "0.2.4",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/light-entity-row/master/light-entity-row.js",
+      "visit_repo": "https://github.com/custom-cards/light-entity-row",
+      "changelog": "https://github.com/custom-cards/light-entity-row/releases/latest"
+    },
+    "list-card": {
+      "updated_at": "2018-11-05",
+      "version": "0.0.7",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/master/list-card.js",
+      "visit_repo": "https://github.com/custom-cards/list-card",
+      "changelog": "https://github.com/custom-cards/list-card/releases/latest"
+    },
+    "rmv-card": {
+      "updated_at": "2018-10-19",
+      "version": "999",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/marquee-state-element/master/marquee-state-element.js",
+      "visit_repo": "https://github.com/custom-cards/marquee-state-element",
+      "changelog": "https://github.com/custom-cards/marquee-state-element/releases/latest"
+    },
+    "state-attribute-element": {
+      "updated_at": "2018-10-28",
+      "version": "0.2.0",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/state-attribute-element/master/state-attribute-element.js",
+      "visit_repo": "https://github.com/custom-cards/state-attribute-element",
+      "changelog": "https://github.com/custom-cards/state-attribute-element/releases/latest"
+    },
+    "state-element": {
+      "updated_at": "2018-07-26",
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/master/state-element.js",
+      "visit_repo": "https://github.com/custom-cards/state-element",
+      "changelog": "https://github.com/custom-cards/state-element/releases/latest"
+    },
+    "surveillance-card": {
+      "updated_at": "2018-11-15",
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/surveillance-card/master/surveillance-card.js",
+      "visit_repo": "https://github.com/custom-cards/surveillance-card",
+      "changelog": "https://github.com/custom-cards/surveillance-card/releases/latest"
+    },
+    "text-element": {
+      "updated_at": "2018-08-18",
+      "version": "0.0.2",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/text-element/master/text-element.js",
+      "visit_repo": "https://github.com/custom-cards/text-element",
+      "changelog": "https://github.com/custom-cards/text-element/releases/latest"
+    },
+    "tracker-card": {
+      "updated_at": "2018-11-10",
+      "version": "0.1.5",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/tracker-card/master/tracker-card.js",
+      "visit_repo": "https://github.com/custom-cards/tracker-card",
+      "changelog": "https://github.com/custom-cards/tracker-card/blob/master/changelog.md"
+    },
+    "upcoming-media-card": {
+      "updated_at": "2018-11-14",
+      "version": "0.2.9",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/upcoming-media-card/master/upcoming-media-card.js",
+      "visit_repo": "https://github.com/custom-cards/upcoming-media-card",
+      "changelog": "https://github.com/custom-cards/upcoming-media-card/releases/latest"
+    },
+    "username-element": {
+      "updated_at": "2018-08-17",
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/username-element/master/username-element.js",
+      "visit_repo": "https://github.com/custom-cards/username-element",
+      "changelog": "https://github.com/custom-cards/username-element/releases/latest"
+    },
+    "vertical-stack-in-card": {
+      "updated_at": "2018-11-12",
+      "version": "0.0.8",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/master/vertical-stack-in-card.js",
+      "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card",
+      "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
+    },
   "card-modder": {
     "updated_at": "2018-11-12",
     "version": "6c15af",
