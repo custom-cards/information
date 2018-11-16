@@ -134,7 +134,7 @@
   },
   "column-card": {
     "updated_at": "2018-11-07",
-    "version": "",
+    "version": "c8c80f",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-column-card/master/column-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-column-card",
     "changelog": "https://github.com/thomasloven/lovelace-column-card"
