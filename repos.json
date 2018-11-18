@@ -46,7 +46,7 @@
       "version": "0.2.4",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/light-entity-row/master/light-entity-row.js",
       "visit_repo": "https://github.com/custom-cards/light-entity-row",
-      "changelog": "https://github.com/custom-cards/light-entity-row/releases/latest"
+      "changelog": "https://github.com/custom-cards/light-entity-row/blob/master/changelog.md"
     },
     "list-card": {
       "updated_at": "2018-11-05",
