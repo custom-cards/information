@@ -119,7 +119,7 @@
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
     },
   "card-modder": {
-    "updated_at": "2018-11-20",
+    "updated_at": "2018-11-21",
     "version": "b44fb3",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-card-modder",
@@ -140,7 +140,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-column-card"
   },
   "fold-entity-row": {
-    "updated_at": "2018-11-16",
+    "updated_at": "2018-11-21",
     "version": "a310c8",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row",
