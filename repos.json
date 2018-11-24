@@ -175,14 +175,14 @@
     "changelog": "https://github.com/thomasloven/lovelace-player"
   },
   "popup-card": {
-    "updated_at": "2018-11-21",
+    "updated_at": "2018-11-24",
     "version": "019d45",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-popup-card",
     "changelog": "https://github.com/thomasloven/lovelace-popup-card"
   },
   "slider-entity-row": {
-    "updated_at": "2018-11-22",
+    "updated_at": "2018-11-24",
     "version": "5e75f8",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row",
