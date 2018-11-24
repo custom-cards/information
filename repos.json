@@ -189,8 +189,8 @@
     "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row"
   },
   "state-switch": {
-    "updated_at": "2018-11-23",
-    "version": "9973e6",
+    "updated_at": "2018-11-24",
+    "version": "2b02f2",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-state-switch/master/state-switch.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-state-switch",
     "changelog": "https://github.com/thomasloven/lovelace-state-switch"
