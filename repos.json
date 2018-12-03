@@ -41,6 +41,13 @@
       "visit_repo": "https://github.com/custom-cards/ext-weblink",
       "changelog": "https://github.com/custom-cards/ext-weblink/releases/latest"
     },
+    "flex-table-card": {
+      "updated_at": "2018-12-03",
+      "version": "0.3",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/flex-table-card/master/flex-table-card.js",
+      "visit_repo": "https://github.com/custom-cards/flex-table-card",
+      "changelog": "https://github.com/custom-cards/flex-table-card/blob/master/changelog.md"
+    },
     "light-entity-row": {
       "updated_at": "2018-10-11",
       "version": "0.2.4",
