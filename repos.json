@@ -21,7 +21,7 @@
       "changelog": "https://github.com/custom-cards/button-entity-row/releases/latest"
     },
     "canvas-gauge-card": {
-      "updated_at": "2018-11-30",
+      "updated_at": "2018-12-03",
       "version": "0.0.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
       "visit_repo": "https://github.com/custom-cards/canvas-gauge-card",
