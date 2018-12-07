@@ -84,7 +84,7 @@
       "changelog": "https://github.com/custom-cards/state-element/releases/latest"
     },
     "surveillance-card": {
-      "updated_at": "2018-12-02",
+      "updated_at": "2018-12-07",
       "version": "0.0.1",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/surveillance-card/master/surveillance-card.js",
       "visit_repo": "https://github.com/custom-cards/surveillance-card",
