@@ -21,7 +21,7 @@
       "changelog": "https://github.com/custom-cards/button-entity-row/releases/latest"
     },
     "canvas-gauge-card": {
-      "updated_at": "2018-12-03",
+      "updated_at": "2018-12-07",
       "version": "0.0.2",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
       "visit_repo": "https://github.com/custom-cards/canvas-gauge-card",
@@ -70,7 +70,7 @@
       "changelog": "https://github.com/custom-cards/marquee-state-element/releases/latest"
     },
     "state-attribute-element": {
-      "updated_at": "2018-10-28",
+      "updated_at": "2018-12-07",
       "version": "0.2.0",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/state-attribute-element/master/state-attribute-element.js",
       "visit_repo": "https://github.com/custom-cards/state-attribute-element",
