@@ -154,7 +154,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row"
   },
   "lovelace-fullykiosk": {
-    "updated_at": "2018-12-05",
+    "updated_at": "2018-12-09",
     "version": "96feda",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/lovelace-fullykiosk.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk",
