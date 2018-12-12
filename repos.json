@@ -133,8 +133,8 @@
     "changelog": "https://github.com/thomasloven/lovelace-card-modder"
   },
   "card-tools": {
-    "updated_at": "2018-12-11",
-    "version": "863971",
+    "updated_at": "2018-12-12",
+    "version": "fa4997",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-card-tools",
     "changelog": "https://github.com/thomasloven/lovelace-card-tools"
