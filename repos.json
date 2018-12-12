@@ -134,7 +134,7 @@
   },
   "card-tools": {
     "updated_at": "2018-12-12",
-    "version": "3cd04c",
+    "version": "e96d8c",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-card-tools",
     "changelog": "https://github.com/thomasloven/lovelace-card-tools"
