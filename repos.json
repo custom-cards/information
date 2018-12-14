@@ -175,7 +175,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-layout-card"
   },
   "long-press": {
-    "updated_at": "2018-10-30",
+    "updated_at": "2018-12-14",
     "version": "ca07e2",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-long-press/master/long-press.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-long-press",
