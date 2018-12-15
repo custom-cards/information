@@ -224,8 +224,8 @@
     "changelog": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row"
   },
   "useful-markdown-card": {
-    "updated_at": "2018-11-08",
-    "version": "bac550",
+    "updated_at": "2018-12-15",
+    "version": "dfc268",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/useful-markdown-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card",
     "changelog": "https://github.com/thomasloven/lovelace-useful-markdown-card"
