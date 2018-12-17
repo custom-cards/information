@@ -168,7 +168,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-fullykiosk"
   },
   "layout-card": {
-    "updated_at": "2018-12-16",
+    "updated_at": "2018-12-17",
     "version": "bd7e5a",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-layout-card",
