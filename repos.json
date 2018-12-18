@@ -154,7 +154,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-column-card"
   },
   "fold-entity-row": {
-    "updated_at": "2018-12-17",
+    "updated_at": "2018-12-18",
     "version": "f28e6e",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row",
@@ -203,14 +203,14 @@
     "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row"
   },
   "state-switch": {
-    "updated_at": "2018-12-04",
+    "updated_at": "2018-12-18",
     "version": "2b02f2",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-state-switch/master/state-switch.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-state-switch",
     "changelog": "https://github.com/thomasloven/lovelace-state-switch"
   },
   "time-input-row": {
-    "updated_at": "2018-11-27",
+    "updated_at": "2018-12-18",
     "version": "f503b7",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-time-input-row/master/time-input-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-time-input-row",
