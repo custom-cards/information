@@ -14,7 +14,7 @@
       "changelog": "https://github.com/custom-cards/aftership-card/releases/latest"
     },
     "button-entity-row": {
-      "updated_at": "2018-10-11",
+      "updated_at": "2018-12-20",
       "version": "0.1.4",
       "remote_location": "https://raw.githubusercontent.com/custom-cards/button-entity-row/master/button-entity-row.js",
       "visit_repo": "https://github.com/custom-cards/button-entity-row",
