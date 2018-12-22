@@ -196,7 +196,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-popup-card"
   },
   "slider-entity-row": {
-    "updated_at": "2018-12-21",
+    "updated_at": "2018-12-22",
     "version": "d6da75",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row",
