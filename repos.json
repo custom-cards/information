@@ -1,4 +1,235 @@
 {
+    "aftership-card": {
+      "updated_at": "2018-08-18",
+      "version": "0.0.2",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/master/aftership-card.js",
+      "visit_repo": "https://github.com/custom-cards/aftership-card",
+      "changelog": "https://github.com/custom-cards/aftership-card/releases/latest"
+    },
+    "beer-wishlist-card": {
+      "updated_at": "2018-08-07",
+      "version": "0.0.2",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/master/aftership-card.js",
+      "visit_repo": "https://github.com/custom-cards/aftership-card",
+      "changelog": "https://github.com/custom-cards/aftership-card/releases/latest"
+    },
+    "button-entity-row": {
+      "updated_at": "2018-12-20",
+      "version": "0.1.4",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/button-entity-row/master/button-entity-row.js",
+      "visit_repo": "https://github.com/custom-cards/button-entity-row",
+      "changelog": "https://github.com/custom-cards/button-entity-row/releases/latest"
+    },
+    "canvas-gauge-card": {
+      "updated_at": "2018-12-07",
+      "version": "0.0.2",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
+      "visit_repo": "https://github.com/custom-cards/canvas-gauge-card",
+      "changelog": "https://github.com/custom-cards/canvas-gauge-card/releases/latest"
+    },
+    "circle-sensor-card": {
+      "updated_at": "2018-11-16",
+      "version": "1.2.0",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
+      "visit_repo": "https://github.com/custom-cards/circle-sensor-card",
+      "changelog": "https://github.com/custom-cards/circle-sensor-card/releases/latest"
+    },
+    "ext-weblink": {
+      "updated_at": "2018-11-06",
+      "version": "0.3.2",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/ext-weblink/master/ext-weblink.js",
+      "visit_repo": "https://github.com/custom-cards/ext-weblink",
+      "changelog": "https://github.com/custom-cards/ext-weblink/releases/latest"
+    },
+    "flex-table-card": {
+      "updated_at": "2018-12-25",
+      "version": "0.3.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/flex-table-card/master/flex-table-card.js",
+      "visit_repo": "https://github.com/custom-cards/flex-table-card",
+      "changelog": "https://github.com/custom-cards/flex-table-card/blob/master/changelog.md"
+    },
+    "light-entity-row": {
+      "updated_at": "2018-10-11",
+      "version": "0.2.4",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/light-entity-row/master/light-entity-row.js",
+      "visit_repo": "https://github.com/custom-cards/light-entity-row",
+      "changelog": "https://github.com/custom-cards/light-entity-row/releases/latest"
+    },
+    "list-card": {
+      "updated_at": "2018-11-20",
+      "version": "0.0.7",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/master/list-card.js",
+      "visit_repo": "https://github.com/custom-cards/list-card",
+      "changelog": "https://github.com/custom-cards/list-card/releases/latest"
+    },
+    "rmv-card": {
+      "updated_at": "2018-10-19",
+      "version": "999",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/marquee-state-element/master/marquee-state-element.js",
+      "visit_repo": "https://github.com/custom-cards/marquee-state-element",
+      "changelog": "https://github.com/custom-cards/marquee-state-element/releases/latest"
+    },
+    "state-attribute-element": {
+      "updated_at": "2018-12-19",
+      "version": "0.2.0",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/state-attribute-element/master/state-attribute-element.js",
+      "visit_repo": "https://github.com/custom-cards/state-attribute-element",
+      "changelog": "https://github.com/custom-cards/state-attribute-element/releases/latest"
+    },
+    "state-element": {
+      "updated_at": "2018-07-26",
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/master/state-element.js",
+      "visit_repo": "https://github.com/custom-cards/state-element",
+      "changelog": "https://github.com/custom-cards/state-element/releases/latest"
+    },
+    "surveillance-card": {
+      "updated_at": "2018-12-17",
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/surveillance-card/master/surveillance-card.js",
+      "visit_repo": "https://github.com/custom-cards/surveillance-card",
+      "changelog": "https://github.com/custom-cards/surveillance-card/releases/latest"
+    },
+    "text-element": {
+      "updated_at": "2018-08-18",
+      "version": "0.0.2",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/text-element/master/text-element.js",
+      "visit_repo": "https://github.com/custom-cards/text-element",
+      "changelog": "https://github.com/custom-cards/text-element/releases/latest"
+    },
+    "tracker-card": {
+      "updated_at": "2018-12-25",
+      "version": "0.1.5",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/tracker-card/master/tracker-card.js",
+      "visit_repo": "https://github.com/custom-cards/tracker-card",
+      "changelog": "https://github.com/custom-cards/tracker-card/blob/master/changelog.md"
+    },
+    "upcoming-media-card": {
+      "updated_at": "2018-12-09",
+      "version": "0.3.3",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/upcoming-media-card/master/upcoming-media-card.js",
+      "visit_repo": "https://github.com/custom-cards/upcoming-media-card",
+      "changelog": "https://github.com/custom-cards/upcoming-media-card/releases/latest"
+    },
+    "username-element": {
+      "updated_at": "2018-08-17",
+      "version": "0.0.1",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/username-element/master/username-element.js",
+      "visit_repo": "https://github.com/custom-cards/username-element",
+      "changelog": "https://github.com/custom-cards/username-element/releases/latest"
+    },
+    "vertical-stack-in-card": {
+      "updated_at": "2018-12-24",
+      "version": "0.0.9",
+      "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/master/vertical-stack-in-card.js",
+      "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card",
+      "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
+    },
+  "card-modder": {
+    "updated_at": "2018-12-23",
+    "version": "35eb37",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-card-modder",
+    "changelog": "https://github.com/thomasloven/lovelace-card-modder"
+  },
+  "card-tools": {
+    "updated_at": "2018-12-22",
+    "version": "445b68",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-card-tools",
+    "changelog": "https://github.com/thomasloven/lovelace-card-tools"
+  },
+  "color-glance-card": {
+    "updated_at": "2018-11-07",
+    "version": "4717b8",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-color-glance-card/master/color-glance-card.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-color-glance-card",
+    "changelog": "https://github.com/thomasloven/lovelace-color-glance-card"
+  },
+  "column-card": {
+    "updated_at": "2018-12-02",
+    "version": "c8c80f",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-column-card/master/column-card.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-column-card",
+    "changelog": "https://github.com/thomasloven/lovelace-column-card"
+  },
+  "fold-entity-row": {
+    "updated_at": "2018-12-18",
+    "version": "f28e6e",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row",
+    "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row"
+  },
+  "lovelace-fullykiosk": {
+    "updated_at": "2018-12-21",
+    "version": "96feda",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/lovelace-fullykiosk.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk",
+    "changelog": "https://github.com/thomasloven/lovelace-fullykiosk"
+  },
+  "layout-card": {
+    "updated_at": "2018-12-21",
+    "version": "bd7e5a",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-layout-card",
+    "changelog": "https://github.com/thomasloven/lovelace-layout-card"
+  },
+  "long-press": {
+    "updated_at": "2018-12-14",
+    "version": "ca07e2",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-long-press/master/long-press.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-long-press",
+    "changelog": "https://github.com/thomasloven/lovelace-long-press"
+  },
+  "lovelace-player": {
+    "updated_at": "2018-11-29",
+    "version": "c2a43b",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/lovelace-player.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-player",
+    "changelog": "https://github.com/thomasloven/lovelace-player"
+  },
+  "popup-card": {
+    "updated_at": "2018-12-17",
+    "version": "02923e",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-popup-card",
+    "changelog": "https://github.com/thomasloven/lovelace-popup-card"
+  },
+  "slider-entity-row": {
+    "updated_at": "2018-12-22",
+    "version": "d6da75",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row",
+    "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row"
+  },
+  "state-switch": {
+    "updated_at": "2018-12-18",
+    "version": "2b02f2",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-state-switch/master/state-switch.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-state-switch",
+    "changelog": "https://github.com/thomasloven/lovelace-state-switch"
+  },
+  "time-input-row": {
+    "updated_at": "2018-12-18",
+    "version": "f503b7",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-time-input-row/master/time-input-row.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-time-input-row",
+    "changelog": "https://github.com/thomasloven/lovelace-time-input-row"
+  },
+  "toggle-lock-entity-row": {
+    "updated_at": "2018-12-25",
+    "version": "a57ac1",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-toggle-lock-entity-row/master/toggle-lock-entity-row.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row",
+    "changelog": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row"
+  },
+  "useful-markdown-card": {
+    "updated_at": "2018-12-18",
+    "version": "dfc268",
+    "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/useful-markdown-card.js",
+    "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card",
+    "changelog": "https://github.com/thomasloven/lovelace-useful-markdown-card"
+  },
         "monster-card": {
           "updated_at": "Unknown",
           "version": "0.2.3",
