@@ -126,14 +126,14 @@
       "changelog": "https://github.com/custom-cards/vertical-stack-in-card/blob/master/changelog.md"
     },
   "card-modder": {
-    "updated_at": "2018-12-23",
+    "updated_at": "2018-12-27",
     "version": "35eb37",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-card-modder",
     "changelog": "https://github.com/thomasloven/lovelace-card-modder"
   },
   "card-tools": {
-    "updated_at": "2018-12-22",
+    "updated_at": "2018-12-27",
     "version": "445b68",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-card-tools",
@@ -154,14 +154,14 @@
     "changelog": "https://github.com/thomasloven/lovelace-column-card"
   },
   "fold-entity-row": {
-    "updated_at": "2018-12-18",
+    "updated_at": "2018-12-27",
     "version": "f28e6e",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row",
     "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row"
   },
   "lovelace-fullykiosk": {
-    "updated_at": "2018-12-21",
+    "updated_at": "2018-12-27",
     "version": "96feda",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/lovelace-fullykiosk.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk",
@@ -196,7 +196,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-popup-card"
   },
   "slider-entity-row": {
-    "updated_at": "2018-12-22",
+    "updated_at": "2018-12-27",
     "version": "d6da75",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row",
