@@ -182,7 +182,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-long-press"
   },
   "lovelace-player": {
-    "updated_at": "2018-12-26",
+    "updated_at": "2018-12-28",
     "version": "c2a43b",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/lovelace-player.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-player",
@@ -217,7 +217,7 @@
     "changelog": "https://github.com/thomasloven/lovelace-time-input-row"
   },
   "toggle-lock-entity-row": {
-    "updated_at": "2018-12-25",
+    "updated_at": "2018-12-28",
     "version": "a57ac1",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-toggle-lock-entity-row/master/toggle-lock-entity-row.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row",
