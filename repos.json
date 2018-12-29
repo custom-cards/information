@@ -182,8 +182,8 @@
     "changelog": "https://github.com/thomasloven/lovelace-long-press"
   },
   "lovelace-player": {
-    "updated_at": "2018-12-28",
-    "version": "c2a43b",
+    "updated_at": "2018-12-29",
+    "version": "43020c",
     "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/lovelace-player.js",
     "visit_repo": "https://github.com/thomasloven/lovelace-player",
     "changelog": "https://github.com/thomasloven/lovelace-player"
