@@ -86,7 +86,7 @@
     "compact-custom-header": {
         "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/0.2.7",
         "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/master/compact-custom-header.js",
-        "updated_at": "2019-01-05",
+        "updated_at": "2019-01-07",
         "version": "0.2.7",
         "visit_repo": "https://github.com/maykar/compact-custom-header"
     },
@@ -121,7 +121,7 @@
     "fullykiosk": {
         "changelog": "https://github.com/thomasloven/lovelace-fullykiosk",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/fullykiosk.js",
-        "updated_at": "2019-01-04",
+        "updated_at": "2019-01-07",
         "version": "96feda",
         "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk"
     },
@@ -215,6 +215,13 @@
         "updated_at": "2019-01-02",
         "version": null,
         "visit_repo": "https://github.com/custom-cards/rmv-card"
+    },
+    "roku-card": {
+        "changelog": "https://github.com/custom-cards/roku-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/master/roku-card.js",
+        "updated_at": "2019-01-07",
+        "version": null,
+        "visit_repo": "https://github.com/custom-cards/roku-card"
     },
     "slider-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row",
