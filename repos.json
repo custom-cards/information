@@ -83,6 +83,13 @@
         "version": "c8c80f",
         "visit_repo": "https://github.com/thomasloven/lovelace-column-card"
     },
+    "compact-custom-header": {
+        "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/0.2.7",
+        "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/master/compact-custom-header.js",
+        "updated_at": "2019-01-05",
+        "version": "0.2.7",
+        "visit_repo": "https://github.com/maykar/compact-custom-header"
+    },
     "entity-attributes-card": {
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/entity-attributes-card/changelog.md",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/entity-attributes-card/entity-attributes-card.js",
