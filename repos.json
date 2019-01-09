@@ -44,7 +44,7 @@
     "canvas-gauge-card": {
         "changelog": "https://github.com/custom-cards/canvas-gauge-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
-        "updated_at": "2018-12-07",
+        "updated_at": "2019-01-08",
         "version": "0.0.2",
         "visit_repo": "https://github.com/custom-cards/canvas-gauge-card"
     },
@@ -86,7 +86,7 @@
     "compact-custom-header": {
         "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/0.2.7",
         "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/master/compact-custom-header.js",
-        "updated_at": "2019-01-07",
+        "updated_at": "2019-01-09",
         "version": "0.2.7",
         "visit_repo": "https://github.com/maykar/compact-custom-header"
     },
@@ -149,8 +149,8 @@
     "homeassistant-gen": {
         "changelog": "https://github.com/thomasloven/homeassistant-lovelace-gen",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/homeassistant-lovelace-gen/master/homeassistant-gen.js",
-        "updated_at": "2019-01-04",
-        "version": "68b60e",
+        "updated_at": "2019-01-08",
+        "version": "367a00",
         "visit_repo": "https://github.com/thomasloven/homeassistant-lovelace-gen"
     },
     "layout-card": {
@@ -205,7 +205,7 @@
     "popup-card": {
         "changelog": "https://github.com/thomasloven/lovelace-popup-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
-        "updated_at": "2018-12-17",
+        "updated_at": "2019-01-09",
         "version": "02923e",
         "visit_repo": "https://github.com/thomasloven/lovelace-popup-card"
     },
@@ -226,7 +226,7 @@
     "slider-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
-        "updated_at": "2019-01-05",
+        "updated_at": "2019-01-09",
         "version": "d6da75",
         "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row"
     },
@@ -289,14 +289,14 @@
     "tracker-card": {
         "changelog": "https://github.com/custom-cards/tracker-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/tracker-card/master/tracker-card.js",
-        "updated_at": "2019-01-04",
+        "updated_at": "2019-01-09",
         "version": "0.1.5",
         "visit_repo": "https://github.com/custom-cards/tracker-card"
     },
     "upcoming-media-card": {
         "changelog": "https://github.com/custom-cards/upcoming-media-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/upcoming-media-card/master/upcoming-media-card.js",
-        "updated_at": "2019-01-06",
+        "updated_at": "2019-01-08",
         "version": "0.3.4",
         "visit_repo": "https://github.com/custom-cards/upcoming-media-card"
     },
@@ -317,7 +317,7 @@
     "vertical-stack-in-card": {
         "changelog": "https://github.com/custom-cards/vertical-stack-in-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/master/vertical-stack-in-card.js",
-        "updated_at": "2019-01-05",
+        "updated_at": "2019-01-08",
         "version": "v0.0.9",
         "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card"
     }
