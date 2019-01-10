@@ -51,14 +51,14 @@
     "card-modder": {
         "changelog": "https://github.com/thomasloven/lovelace-card-modder",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
-        "updated_at": "2018-12-27",
+        "updated_at": "2019-01-10",
         "version": "35eb37",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-modder"
     },
     "card-tools": {
         "changelog": "https://github.com/thomasloven/lovelace-card-tools",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
-        "updated_at": "2018-12-29",
+        "updated_at": "2019-01-09",
         "version": "0a97d3",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-tools"
     },
@@ -86,7 +86,7 @@
     "compact-custom-header": {
         "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/0.2.7",
         "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/master/compact-custom-header.js",
-        "updated_at": "2019-01-09",
+        "updated_at": "2019-01-10",
         "version": "0.2.7",
         "visit_repo": "https://github.com/maykar/compact-custom-header"
     },
@@ -107,14 +107,14 @@
     "flex-table-card": {
         "changelog": "https://github.com/custom-cards/flex-table-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/flex-table-card/master/flex-table-card.js",
-        "updated_at": "2018-12-28",
+        "updated_at": "2019-01-09",
         "version": "0.3.1",
         "visit_repo": "https://github.com/custom-cards/flex-table-card"
     },
     "fold-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
-        "updated_at": "2019-01-04",
+        "updated_at": "2019-01-09",
         "version": "f28e6e",
         "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
     },
