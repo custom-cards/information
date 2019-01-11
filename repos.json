@@ -86,7 +86,7 @@
     "compact-custom-header": {
         "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/0.2.7",
         "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/master/compact-custom-header.js",
-        "updated_at": "2019-01-10",
+        "updated_at": "2019-01-11",
         "version": "0.2.7",
         "visit_repo": "https://github.com/maykar/compact-custom-header"
     },
@@ -107,7 +107,7 @@
     "flex-table-card": {
         "changelog": "https://github.com/custom-cards/flex-table-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/flex-table-card/master/flex-table-card.js",
-        "updated_at": "2019-01-09",
+        "updated_at": "2019-01-10",
         "version": "0.3.1",
         "visit_repo": "https://github.com/custom-cards/flex-table-card"
     },
@@ -149,8 +149,8 @@
     "homeassistant-gen": {
         "changelog": "https://github.com/thomasloven/homeassistant-lovelace-gen",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/homeassistant-lovelace-gen/master/homeassistant-gen.js",
-        "updated_at": "2019-01-08",
-        "version": "367a00",
+        "updated_at": "2019-01-11",
+        "version": "29a60d",
         "visit_repo": "https://github.com/thomasloven/homeassistant-lovelace-gen"
     },
     "layout-card": {
@@ -170,7 +170,7 @@
     "list-card": {
         "changelog": "https://github.com/custom-cards/list-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/master/list-card.js",
-        "updated_at": "2019-01-02",
+        "updated_at": "2019-01-11",
         "version": "v0.0.7",
         "visit_repo": "https://github.com/custom-cards/list-card"
     },
@@ -188,6 +188,13 @@
         "version": "0.2.3",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card"
     },
+    "pc-card": {
+        "changelog": "https://github.com/custom-cards/pc-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/pc-card/master/pc-card.js",
+        "updated_at": "2019-01-11",
+        "version": null,
+        "visit_repo": "https://github.com/custom-cards/pc-card"
+    },
     "plan-coordinates": {
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/plan-coordinates/changelog.md",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/plan-coordinates/plan-coordinates.js",
@@ -198,7 +205,7 @@
     "player": {
         "changelog": "https://github.com/thomasloven/lovelace-player",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/player.js",
-        "updated_at": "2019-01-04",
+        "updated_at": "2019-01-11",
         "version": "43020c",
         "visit_repo": "https://github.com/thomasloven/lovelace-player"
     },
@@ -219,14 +226,14 @@
     "roku-card": {
         "changelog": "https://github.com/custom-cards/roku-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/master/roku-card.js",
-        "updated_at": "2019-01-07",
+        "updated_at": "2019-01-10",
         "version": null,
         "visit_repo": "https://github.com/custom-cards/roku-card"
     },
     "slider-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
-        "updated_at": "2019-01-09",
+        "updated_at": "2019-01-11",
         "version": "d6da75",
         "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row"
     },
@@ -254,7 +261,7 @@
     "surveillance-card": {
         "changelog": "https://github.com/custom-cards/surveillance-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/surveillance-card/master/surveillance-card.js",
-        "updated_at": "2018-12-29",
+        "updated_at": "2019-01-10",
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-cards/surveillance-card"
     },
@@ -289,7 +296,7 @@
     "tracker-card": {
         "changelog": "https://github.com/custom-cards/tracker-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/tracker-card/master/tracker-card.js",
-        "updated_at": "2019-01-09",
+        "updated_at": "2019-01-11",
         "version": "0.1.5",
         "visit_repo": "https://github.com/custom-cards/tracker-card"
     },
@@ -303,7 +310,7 @@
     "useful-markdown-card": {
         "changelog": "https://github.com/thomasloven/lovelace-useful-markdown-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/useful-markdown-card.js",
-        "updated_at": "2019-01-06",
+        "updated_at": "2019-01-11",
         "version": "dfc268",
         "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card"
     },
@@ -317,7 +324,7 @@
     "vertical-stack-in-card": {
         "changelog": "https://github.com/custom-cards/vertical-stack-in-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/master/vertical-stack-in-card.js",
-        "updated_at": "2019-01-08",
+        "updated_at": "2019-01-10",
         "version": "v0.0.9",
         "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card"
     }
