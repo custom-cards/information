@@ -93,7 +93,7 @@
     "compact-custom-header": {
         "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/0.2.7",
         "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/master/compact-custom-header.js",
-        "updated_at": "2019-01-12",
+        "updated_at": "2019-01-13",
         "version": "0.2.7",
         "visit_repo": "https://github.com/maykar/compact-custom-header"
     },
@@ -128,7 +128,7 @@
     "fullykiosk": {
         "changelog": "https://github.com/thomasloven/lovelace-fullykiosk",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/fullykiosk.js",
-        "updated_at": "2019-01-13",
+        "updated_at": "2019-01-14",
         "version": "96feda",
         "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk"
     },
@@ -198,8 +198,8 @@
     "pc-card": {
         "changelog": "https://github.com/custom-cards/pc-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/pc-card/master/pc-card.js",
-        "updated_at": "2019-01-11",
-        "version": "v0.0.1",
+        "updated_at": "2019-01-13",
+        "version": "v0.0.2",
         "visit_repo": "https://github.com/custom-cards/pc-card"
     },
     "plan-coordinates": {
@@ -233,14 +233,14 @@
     "roku-card": {
         "changelog": "https://github.com/custom-cards/roku-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/master/roku-card.js",
-        "updated_at": "2019-01-10",
-        "version": null,
+        "updated_at": "2019-01-14",
+        "version": "v0.0.1",
         "visit_repo": "https://github.com/custom-cards/roku-card"
     },
     "slider-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
-        "updated_at": "2019-01-13",
+        "updated_at": "2019-01-14",
         "version": "d6da75",
         "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row"
     },
@@ -331,8 +331,8 @@
     "vertical-stack-in-card": {
         "changelog": "https://github.com/custom-cards/vertical-stack-in-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/master/vertical-stack-in-card.js",
-        "updated_at": "2019-01-10",
-        "version": "v0.0.9",
+        "updated_at": "2019-01-14",
+        "version": "v0.1.0",
         "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card"
     }
 }
