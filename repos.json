@@ -3,7 +3,7 @@
         "changelog": "https://github.com/custom-cards/aftership-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/master/aftership-card.js",
         "updated_at": "2018-08-18",
-        "version": "0.0.2",
+        "version": "0.0.1",
         "visit_repo": "https://github.com/custom-cards/aftership-card"
     },
     "alarm_control_panel-card": {
