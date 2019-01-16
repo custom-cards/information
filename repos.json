@@ -58,7 +58,7 @@
     "card-modder": {
         "changelog": "https://github.com/thomasloven/lovelace-card-modder",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
-        "updated_at": "2019-01-10",
+        "updated_at": "2019-01-16",
         "version": "35eb37",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-modder"
     },
@@ -240,7 +240,7 @@
     "roku-card": {
         "changelog": "https://github.com/custom-cards/roku-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/master/roku-card.js",
-        "updated_at": "2019-01-14",
+        "updated_at": "2019-01-16",
         "version": "v0.0.1",
         "visit_repo": "https://github.com/custom-cards/roku-card"
     },
