@@ -3,7 +3,7 @@
         "changelog": "https://github.com/custom-cards/aftership-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/master/aftership-card.js",
         "updated_at": "2018-08-18",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "visit_repo": "https://github.com/custom-cards/aftership-card"
     },
     "alarm_control_panel-card": {
@@ -72,7 +72,7 @@
     "circle-sensor-card": {
         "changelog": "https://github.com/custom-cards/circle-sensor-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
-        "updated_at": "2019-01-05",
+        "updated_at": "2019-01-16",
         "version": "1.2.0",
         "visit_repo": "https://github.com/custom-cards/circle-sensor-card"
     },
@@ -121,8 +121,8 @@
     "fold-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
-        "updated_at": "2019-01-15",
-        "version": "3ae2c4",
+        "updated_at": "2019-01-16",
+        "version": "1cb484",
         "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
     },
     "fullykiosk": {
@@ -317,7 +317,7 @@
     "upcoming-media-card": {
         "changelog": "https://github.com/custom-cards/upcoming-media-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/upcoming-media-card/master/upcoming-media-card.js",
-        "updated_at": "2019-01-08",
+        "updated_at": "2019-01-16",
         "version": "0.3.4",
         "visit_repo": "https://github.com/custom-cards/upcoming-media-card"
     },
