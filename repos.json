@@ -121,14 +121,14 @@
     "fold-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
-        "updated_at": "2019-01-12",
-        "version": "9f30bd",
+        "updated_at": "2019-01-15",
+        "version": "3ae2c4",
         "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
     },
     "fullykiosk": {
         "changelog": "https://github.com/thomasloven/lovelace-fullykiosk",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/fullykiosk.js",
-        "updated_at": "2019-01-14",
+        "updated_at": "2019-01-16",
         "version": "96feda",
         "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk"
     },
@@ -275,7 +275,7 @@
     "surveillance-card": {
         "changelog": "https://github.com/custom-cards/surveillance-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/surveillance-card/master/surveillance-card.js",
-        "updated_at": "2019-01-12",
+        "updated_at": "2019-01-15",
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-cards/surveillance-card"
     },
