@@ -93,7 +93,7 @@
     "compact-custom-header": {
         "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/0.2.7",
         "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/master/compact-custom-header.js",
-        "updated_at": "2019-01-15",
+        "updated_at": "2019-01-17",
         "version": "0.2.7",
         "visit_repo": "https://github.com/maykar/compact-custom-header"
     },
@@ -121,8 +121,8 @@
     "fold-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
-        "updated_at": "2019-01-16",
-        "version": "1cb484",
+        "updated_at": "2019-01-17",
+        "version": "5ab35c",
         "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
     },
     "fullykiosk": {
@@ -275,7 +275,7 @@
     "surveillance-card": {
         "changelog": "https://github.com/custom-cards/surveillance-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/surveillance-card/master/surveillance-card.js",
-        "updated_at": "2019-01-15",
+        "updated_at": "2019-01-17",
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-cards/surveillance-card"
     },
