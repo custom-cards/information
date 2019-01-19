@@ -37,7 +37,7 @@
     "browser-commander": {
         "changelog": "https://github.com/thomasloven/lovelace-browser-commander",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-browser-commander/master/browser-commander.js",
-        "updated_at": "2019-01-12",
+        "updated_at": "2019-01-19",
         "version": "b48257",
         "visit_repo": "https://github.com/thomasloven/lovelace-browser-commander"
     },
@@ -184,7 +184,7 @@
     "list-card": {
         "changelog": "https://github.com/custom-cards/list-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/master/list-card.js",
-        "updated_at": "2019-01-14",
+        "updated_at": "2019-01-18",
         "version": "v0.0.7",
         "visit_repo": "https://github.com/custom-cards/list-card"
     },
@@ -205,7 +205,7 @@
     "pc-card": {
         "changelog": "https://github.com/custom-cards/pc-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/pc-card/master/pc-card.js",
-        "updated_at": "2019-01-13",
+        "updated_at": "2019-01-18",
         "version": "v0.0.2",
         "visit_repo": "https://github.com/custom-cards/pc-card"
     },
@@ -226,7 +226,7 @@
     "popup-card": {
         "changelog": "https://github.com/thomasloven/lovelace-popup-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
-        "updated_at": "2019-01-15",
+        "updated_at": "2019-01-18",
         "version": "02923e",
         "visit_repo": "https://github.com/thomasloven/lovelace-popup-card"
     },
@@ -240,14 +240,14 @@
     "roku-card": {
         "changelog": "https://github.com/custom-cards/roku-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/master/roku-card.js",
-        "updated_at": "2019-01-16",
+        "updated_at": "2019-01-18",
         "version": "v0.0.1",
         "visit_repo": "https://github.com/custom-cards/roku-card"
     },
     "slider-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
-        "updated_at": "2019-01-14",
+        "updated_at": "2019-01-18",
         "version": "d6da75",
         "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row"
     },
