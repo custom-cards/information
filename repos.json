@@ -37,8 +37,8 @@
     "browser-commander": {
         "changelog": "https://github.com/thomasloven/lovelace-browser-commander",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-browser-commander/master/browser-commander.js",
-        "updated_at": "2019-01-23",
-        "version": "3558fc",
+        "updated_at": "2019-01-24",
+        "version": "27d243",
         "visit_repo": "https://github.com/thomasloven/lovelace-browser-commander"
     },
     "button-entity-row": {
@@ -58,21 +58,21 @@
     "card-modder": {
         "changelog": "https://github.com/thomasloven/lovelace-card-modder",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
-        "updated_at": "2019-01-23",
-        "version": "812f2d",
+        "updated_at": "2019-01-24",
+        "version": "03a767",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-modder"
     },
     "card-tools": {
         "changelog": "https://github.com/thomasloven/lovelace-card-tools",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
-        "updated_at": "2019-01-23",
-        "version": "090958",
+        "updated_at": "2019-01-24",
+        "version": "297fcc",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-tools"
     },
     "circle-sensor-card": {
         "changelog": "https://github.com/custom-cards/circle-sensor-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
-        "updated_at": "2019-01-23",
+        "updated_at": "2019-01-24",
         "version": "1.2.0",
         "visit_repo": "https://github.com/custom-cards/circle-sensor-card"
     },
@@ -121,8 +121,8 @@
     "fold-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
-        "updated_at": "2019-01-23",
-        "version": "5ab35c",
+        "updated_at": "2019-01-24",
+        "version": "6d11d3",
         "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
     },
     "fullykiosk": {
@@ -156,7 +156,7 @@
     "homeassistant-gen": {
         "changelog": "https://github.com/thomasloven/homeassistant-lovelace-gen",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/homeassistant-lovelace-gen/master/homeassistant-gen.js",
-        "updated_at": "2019-01-22",
+        "updated_at": "2019-01-24",
         "version": "29a60d",
         "visit_repo": "https://github.com/thomasloven/homeassistant-lovelace-gen"
     },
