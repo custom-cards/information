@@ -83,6 +83,13 @@
         "version": "4717b8",
         "visit_repo": "https://github.com/thomasloven/lovelace-color-glance-card"
     },
+    "color-picker": {
+        "changelog": "https://github.com/thomasloven/lovelace-color-picker",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-color-picker/master/color-picker.js",
+        "updated_at": "2019-01-24",
+        "version": "1485ec",
+        "visit_repo": "https://github.com/thomasloven/lovelace-color-picker"
+    },
     "column-card": {
         "changelog": "https://github.com/thomasloven/lovelace-column-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-column-card/master/column-card.js",
@@ -226,7 +233,7 @@
     "popup-card": {
         "changelog": "https://github.com/thomasloven/lovelace-popup-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
-        "updated_at": "2019-01-23",
+        "updated_at": "2019-01-24",
         "version": "02923e",
         "visit_repo": "https://github.com/thomasloven/lovelace-popup-card"
     },
@@ -303,7 +310,7 @@
     "toggle-lock-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-toggle-lock-entity-row/master/toggle-lock-entity-row.js",
-        "updated_at": "2019-01-05",
+        "updated_at": "2019-01-24",
         "version": "a57ac1",
         "visit_repo": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row"
     },
