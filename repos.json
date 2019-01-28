@@ -114,7 +114,7 @@
     "compact-custom-header": {
         "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/0.2.9",
         "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/master/compact-custom-header.js",
-        "updated_at": "2019-01-26",
+        "updated_at": "2019-01-28",
         "version": "0.2.9",
         "visit_repo": "https://github.com/maykar/compact-custom-header"
     },
@@ -142,7 +142,7 @@
     "fold-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
-        "updated_at": "2019-01-27",
+        "updated_at": "2019-01-28",
         "version": "6d11d3",
         "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
     },
@@ -338,7 +338,7 @@
     "upcoming-media-card": {
         "changelog": "https://github.com/custom-cards/upcoming-media-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/upcoming-media-card/master/upcoming-media-card.js",
-        "updated_at": "2019-01-27",
+        "updated_at": "2019-01-28",
         "version": "0.3.4",
         "visit_repo": "https://github.com/custom-cards/upcoming-media-card"
     },
