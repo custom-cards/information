@@ -44,7 +44,7 @@
     "browser-commander": {
         "changelog": "https://github.com/thomasloven/lovelace-browser-commander",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-browser-commander/master/browser-commander.js",
-        "updated_at": "2019-01-26",
+        "updated_at": "2019-01-29",
         "version": "68e574",
         "visit_repo": "https://github.com/thomasloven/lovelace-browser-commander"
     },
