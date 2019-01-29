@@ -135,7 +135,7 @@
     "flex-table-card": {
         "changelog": "https://github.com/custom-cards/flex-table-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/flex-table-card/master/flex-table-card.js",
-        "updated_at": "2019-01-25",
+        "updated_at": "2019-01-29",
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-cards/flex-table-card"
     },
