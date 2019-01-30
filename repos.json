@@ -226,7 +226,7 @@
     "pc-card": {
         "changelog": "https://github.com/custom-cards/pc-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/pc-card/master/pc-card.js",
-        "updated_at": "2019-01-23",
+        "updated_at": "2019-01-30",
         "version": "v0.0.2",
         "visit_repo": "https://github.com/custom-cards/pc-card"
     },
@@ -261,7 +261,7 @@
     "roku-card": {
         "changelog": "https://github.com/custom-cards/roku-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/master/roku-card.js",
-        "updated_at": "2019-01-26",
+        "updated_at": "2019-01-30",
         "version": "v0.0.6",
         "visit_repo": "https://github.com/custom-cards/roku-card"
     },
