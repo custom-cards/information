@@ -72,7 +72,7 @@
     "card-modder": {
         "changelog": "https://github.com/thomasloven/lovelace-card-modder",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
-        "updated_at": "2019-01-28",
+        "updated_at": "2019-01-30",
         "version": "70344a",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-modder"
     },
@@ -177,7 +177,7 @@
     "homeassistant-gen": {
         "changelog": "https://github.com/thomasloven/homeassistant-lovelace-gen",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/homeassistant-lovelace-gen/master/homeassistant-gen.js",
-        "updated_at": "2019-01-25",
+        "updated_at": "2019-01-30",
         "version": "29a60d",
         "visit_repo": "https://github.com/thomasloven/homeassistant-lovelace-gen"
     },
@@ -359,7 +359,7 @@
     "vertical-stack-in-card": {
         "changelog": "https://github.com/custom-cards/vertical-stack-in-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/master/vertical-stack-in-card.js",
-        "updated_at": "2019-01-28",
+        "updated_at": "2019-01-30",
         "version": "v0.1.0",
         "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card"
     }
