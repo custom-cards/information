@@ -198,7 +198,7 @@
     "light-entity-row": {
         "changelog": "https://github.com/custom-cards/light-entity-row",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/light-entity-row/master/light-entity-row.js",
-        "updated_at": "2019-01-23",
+        "updated_at": "2019-01-30",
         "version": "v0.2.2",
         "visit_repo": "https://github.com/custom-cards/light-entity-row"
     },
