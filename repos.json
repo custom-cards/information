@@ -44,7 +44,7 @@
     "browser-commander": {
         "changelog": "https://github.com/thomasloven/lovelace-browser-commander",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-browser-commander/master/browser-commander.js",
-        "updated_at": "2019-01-29",
+        "updated_at": "2019-01-31",
         "version": "68e574",
         "visit_repo": "https://github.com/thomasloven/lovelace-browser-commander"
     },
@@ -65,21 +65,21 @@
     "card-loader": {
         "changelog": "https://github.com/thomasloven/lovelace-card-loader",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-loader/master/card-loader.js",
-        "updated_at": "2019-01-30",
+        "updated_at": "2019-01-31",
         "version": "f68ed5",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-loader"
     },
     "card-modder": {
         "changelog": "https://github.com/thomasloven/lovelace-card-modder",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
-        "updated_at": "2019-01-30",
+        "updated_at": "2019-01-31",
         "version": "70344a",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-modder"
     },
     "card-tools": {
         "changelog": "https://github.com/thomasloven/lovelace-card-tools",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
-        "updated_at": "2019-01-30",
+        "updated_at": "2019-01-31",
         "version": "297fcc",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-tools"
     },
@@ -142,7 +142,7 @@
     "fold-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
-        "updated_at": "2019-01-28",
+        "updated_at": "2019-01-31",
         "version": "6d11d3",
         "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
     },
@@ -247,7 +247,7 @@
     "popup-card": {
         "changelog": "https://github.com/thomasloven/lovelace-popup-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
-        "updated_at": "2019-01-28",
+        "updated_at": "2019-01-31",
         "version": "76720c",
         "visit_repo": "https://github.com/thomasloven/lovelace-popup-card"
     },
@@ -317,7 +317,7 @@
     "time-input-row": {
         "changelog": "https://github.com/thomasloven/lovelace-time-input-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-time-input-row/master/time-input-row.js",
-        "updated_at": "2018-12-18",
+        "updated_at": "2019-01-31",
         "version": "f503b7",
         "visit_repo": "https://github.com/thomasloven/lovelace-time-input-row"
     },
@@ -345,7 +345,7 @@
     "useful-markdown-card": {
         "changelog": "https://github.com/thomasloven/lovelace-useful-markdown-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/useful-markdown-card.js",
-        "updated_at": "2019-01-28",
+        "updated_at": "2019-01-31",
         "version": "dfc268",
         "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card"
     },
