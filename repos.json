@@ -72,7 +72,7 @@
     "card-modder": {
         "changelog": "https://github.com/thomasloven/lovelace-card-modder",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
-        "updated_at": "2019-01-31",
+        "updated_at": "2019-02-01",
         "version": "70344a",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-modder"
     },
