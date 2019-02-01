@@ -16,7 +16,7 @@
     "auto-entities": {
         "changelog": "https://github.com/thomasloven/lovelace-auto-entities",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-auto-entities/master/auto-entities.js",
-        "updated_at": "2019-01-31",
+        "updated_at": "2019-02-01",
         "version": "3cfd04",
         "visit_repo": "https://github.com/thomasloven/lovelace-auto-entities"
     },
@@ -268,7 +268,7 @@
     "slider-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
-        "updated_at": "2019-01-31",
+        "updated_at": "2019-02-01",
         "version": "ba8f50",
         "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row"
     },
