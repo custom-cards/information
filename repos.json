@@ -86,7 +86,7 @@
     "circle-sensor-card": {
         "changelog": "https://github.com/custom-cards/circle-sensor-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/master/circle-sensor-card.js",
-        "updated_at": "2019-01-26",
+        "updated_at": "2019-02-02",
         "version": "1.2.0",
         "visit_repo": "https://github.com/custom-cards/circle-sensor-card"
     },
@@ -135,7 +135,7 @@
     "flex-table-card": {
         "changelog": "https://github.com/custom-cards/flex-table-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/flex-table-card/master/flex-table-card.js",
-        "updated_at": "2019-01-29",
+        "updated_at": "2019-02-02",
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-cards/flex-table-card"
     },
@@ -282,7 +282,7 @@
     "state-element": {
         "changelog": "https://github.com/custom-cards/state-element",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/master/state-element.js",
-        "updated_at": "2018-07-26",
+        "updated_at": "2019-02-02",
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-cards/state-element"
     },
