@@ -261,7 +261,7 @@
     "roku-card": {
         "changelog": "https://github.com/custom-cards/roku-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/master/roku-card.js",
-        "updated_at": "2019-01-30",
+        "updated_at": "2019-02-02",
         "version": "v0.0.6",
         "visit_repo": "https://github.com/custom-cards/roku-card"
     },
