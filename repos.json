@@ -289,8 +289,8 @@
     "state-switch": {
         "changelog": "https://github.com/thomasloven/lovelace-state-switch",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-state-switch/master/state-switch.js",
-        "updated_at": "2019-01-30",
-        "version": "c7dd70",
+        "updated_at": "2019-02-03",
+        "version": "dcb79b",
         "visit_repo": "https://github.com/thomasloven/lovelace-state-switch"
     },
     "surveillance-card": {
