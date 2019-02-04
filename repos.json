@@ -289,7 +289,7 @@
     "state-switch": {
         "changelog": "https://github.com/thomasloven/lovelace-state-switch",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-state-switch/master/state-switch.js",
-        "updated_at": "2019-02-03",
+        "updated_at": "2019-02-04",
         "version": "dcb79b",
         "visit_repo": "https://github.com/thomasloven/lovelace-state-switch"
     },
