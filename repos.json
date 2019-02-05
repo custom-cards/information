@@ -142,7 +142,7 @@
     "fold-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
-        "updated_at": "2019-02-04",
+        "updated_at": "2019-02-05",
         "version": "6d11d3",
         "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
     },
@@ -247,7 +247,7 @@
     "popup-card": {
         "changelog": "https://github.com/thomasloven/lovelace-popup-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
-        "updated_at": "2019-01-31",
+        "updated_at": "2019-02-05",
         "version": "76720c",
         "visit_repo": "https://github.com/thomasloven/lovelace-popup-card"
     },
