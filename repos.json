@@ -146,13 +146,6 @@
         "version": "6d11d3",
         "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
     },
-    "fullykiosk": {
-        "changelog": "https://github.com/thomasloven/lovelace-fullykiosk",
-        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/fullykiosk.js",
-        "updated_at": "2019-02-05",
-        "version": "96feda",
-        "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk"
-    },
     "gauge-card": {
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/gauge-card/changelog.md",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/gauge-card/gauge-card.js",
