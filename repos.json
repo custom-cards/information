@@ -216,13 +216,6 @@
         "version": "ca07e2",
         "visit_repo": "https://github.com/thomasloven/lovelace-long-press"
     },
-    "monster-card": {
-        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card/changelog.md",
-        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/monster-card/monster-card.js",
-        "updated_at": null,
-        "version": "0.2.3",
-        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card"
-    },
     "pc-card": {
         "changelog": "https://github.com/custom-cards/pc-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/pc-card/master/pc-card.js",
