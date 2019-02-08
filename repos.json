@@ -16,7 +16,7 @@
     "auto-entities": {
         "changelog": "https://github.com/thomasloven/lovelace-auto-entities",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-auto-entities/master/auto-entities.js",
-        "updated_at": "2019-02-07",
+        "updated_at": "2019-02-08",
         "version": "3cfd04",
         "visit_repo": "https://github.com/thomasloven/lovelace-auto-entities"
     },
