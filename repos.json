@@ -44,8 +44,8 @@
     "browser-commander": {
         "changelog": "https://github.com/thomasloven/lovelace-browser-commander",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-browser-commander/master/browser-commander.js",
-        "updated_at": "2019-02-04",
-        "version": "51d6a8",
+        "updated_at": "2019-02-08",
+        "version": "4eb31b",
         "visit_repo": "https://github.com/thomasloven/lovelace-browser-commander"
     },
     "button-entity-row": {
@@ -247,8 +247,8 @@
     "popup-card": {
         "changelog": "https://github.com/thomasloven/lovelace-popup-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
-        "updated_at": "2019-02-05",
-        "version": "76720c",
+        "updated_at": "2019-02-08",
+        "version": "941da5",
         "visit_repo": "https://github.com/thomasloven/lovelace-popup-card"
     },
     "rmv-card": {
