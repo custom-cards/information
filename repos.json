@@ -184,7 +184,7 @@
     "layout-card": {
         "changelog": "https://github.com/thomasloven/lovelace-layout-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
-        "updated_at": "2019-02-08",
+        "updated_at": "2019-02-10",
         "version": "a313b7",
         "visit_repo": "https://github.com/thomasloven/lovelace-layout-card"
     },
