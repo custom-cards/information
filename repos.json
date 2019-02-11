@@ -16,8 +16,8 @@
     "auto-entities": {
         "changelog": "https://github.com/thomasloven/lovelace-auto-entities",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-auto-entities/master/auto-entities.js",
-        "updated_at": "2019-02-10",
-        "version": "3cfd04",
+        "updated_at": "2019-02-11",
+        "version": "4c3807",
         "visit_repo": "https://github.com/thomasloven/lovelace-auto-entities"
     },
     "beer-card": {
@@ -73,7 +73,7 @@
         "changelog": "https://github.com/thomasloven/lovelace-card-modder",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
         "updated_at": "2019-02-11",
-        "version": "785dd6",
+        "version": "b0ddee",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-modder"
     },
     "card-tools": {
