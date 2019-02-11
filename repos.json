@@ -17,7 +17,7 @@
         "changelog": "https://github.com/thomasloven/lovelace-auto-entities",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-auto-entities/master/auto-entities.js",
         "updated_at": "2019-02-11",
-        "version": "4c3807",
+        "version": "b86cf3",
         "visit_repo": "https://github.com/thomasloven/lovelace-auto-entities"
     },
     "beer-card": {
@@ -44,7 +44,7 @@
     "browser-commander": {
         "changelog": "https://github.com/thomasloven/lovelace-browser-commander",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-browser-commander/master/browser-commander.js",
-        "updated_at": "2019-02-09",
+        "updated_at": "2019-02-11",
         "version": "4eb31b",
         "visit_repo": "https://github.com/thomasloven/lovelace-browser-commander"
     },
@@ -65,7 +65,7 @@
     "card-loader": {
         "changelog": "https://github.com/thomasloven/lovelace-card-loader",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-loader/master/card-loader.js",
-        "updated_at": "2019-02-10",
+        "updated_at": "2019-02-11",
         "version": "f68ed5",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-loader"
     },
@@ -79,7 +79,7 @@
     "card-tools": {
         "changelog": "https://github.com/thomasloven/lovelace-card-tools",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
-        "updated_at": "2019-02-09",
+        "updated_at": "2019-02-11",
         "version": "297fcc",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-tools"
     },
@@ -135,7 +135,7 @@
     "fold-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
-        "updated_at": "2019-02-10",
+        "updated_at": "2019-02-11",
         "version": "6d11d3",
         "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
     },
@@ -184,7 +184,7 @@
     "layout-card": {
         "changelog": "https://github.com/thomasloven/lovelace-layout-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
-        "updated_at": "2019-02-10",
+        "updated_at": "2019-02-11",
         "version": "a313b7",
         "visit_repo": "https://github.com/thomasloven/lovelace-layout-card"
     },
@@ -205,7 +205,7 @@
     "long-press": {
         "changelog": "https://github.com/thomasloven/lovelace-long-press",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-long-press/master/long-press.js",
-        "updated_at": "2018-12-14",
+        "updated_at": "2019-02-11",
         "version": "ca07e2",
         "visit_repo": "https://github.com/thomasloven/lovelace-long-press"
     },
@@ -282,7 +282,7 @@
     "state-switch": {
         "changelog": "https://github.com/thomasloven/lovelace-state-switch",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-state-switch/master/state-switch.js",
-        "updated_at": "2019-02-04",
+        "updated_at": "2019-02-11",
         "version": "c806ca",
         "visit_repo": "https://github.com/thomasloven/lovelace-state-switch"
     },
@@ -338,7 +338,7 @@
     "useful-markdown-card": {
         "changelog": "https://github.com/thomasloven/lovelace-useful-markdown-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/useful-markdown-card.js",
-        "updated_at": "2019-02-06",
+        "updated_at": "2019-02-11",
         "version": "dfc268",
         "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card"
     },
