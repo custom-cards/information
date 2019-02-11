@@ -324,14 +324,14 @@
     "tracker-card": {
         "changelog": "https://github.com/custom-cards/tracker-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/tracker-card/master/tracker-card.js",
-        "updated_at": "2019-02-10",
+        "updated_at": "2019-02-11",
         "version": "0.3.0",
         "visit_repo": "https://github.com/custom-cards/tracker-card"
     },
     "upcoming-media-card": {
         "changelog": "https://github.com/custom-cards/upcoming-media-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/upcoming-media-card/master/upcoming-media-card.js",
-        "updated_at": "2019-02-09",
+        "updated_at": "2019-02-11",
         "version": "0.3.4",
         "visit_repo": "https://github.com/custom-cards/upcoming-media-card"
     },
