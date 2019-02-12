@@ -233,7 +233,7 @@
     "player": {
         "changelog": "https://github.com/thomasloven/lovelace-player",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/player.js",
-        "updated_at": "2019-02-11",
+        "updated_at": "2019-02-12",
         "version": "43020c",
         "visit_repo": "https://github.com/thomasloven/lovelace-player"
     },
