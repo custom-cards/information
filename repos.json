@@ -240,7 +240,7 @@
     "popup-card": {
         "changelog": "https://github.com/thomasloven/lovelace-popup-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
-        "updated_at": "2019-02-11",
+        "updated_at": "2019-02-12",
         "version": "941da5",
         "visit_repo": "https://github.com/thomasloven/lovelace-popup-card"
     },
