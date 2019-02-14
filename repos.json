@@ -198,7 +198,7 @@
     "list-card": {
         "changelog": "https://github.com/custom-cards/list-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/master/list-card.js",
-        "updated_at": "2019-02-11",
+        "updated_at": "2019-02-14",
         "version": "v0.0.7",
         "visit_repo": "https://github.com/custom-cards/list-card"
     },
@@ -262,7 +262,7 @@
         "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
         "updated_at": "2019-02-14",
-        "version": "cde2a9",
+        "version": "be80ff",
         "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row"
     },
     "state-attribute-element": {
