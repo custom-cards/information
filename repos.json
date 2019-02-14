@@ -16,7 +16,7 @@
     "auto-entities": {
         "changelog": "https://github.com/thomasloven/lovelace-auto-entities",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-auto-entities/master/auto-entities.js",
-        "updated_at": "2019-02-12",
+        "updated_at": "2019-02-14",
         "version": "1d85a8",
         "visit_repo": "https://github.com/thomasloven/lovelace-auto-entities"
     },
@@ -142,7 +142,7 @@
     "fold-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
-        "updated_at": "2019-02-12",
+        "updated_at": "2019-02-14",
         "version": "6d11d3",
         "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
     },
