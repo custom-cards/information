@@ -73,14 +73,14 @@
         "changelog": "https://github.com/thomasloven/lovelace-card-modder",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
         "updated_at": "2019-02-15",
-        "version": "201cad",
+        "version": "8465f7",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-modder"
     },
     "card-tools": {
         "changelog": "https://github.com/thomasloven/lovelace-card-tools",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
         "updated_at": "2019-02-15",
-        "version": "297fcc",
+        "version": "97d985",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-tools"
     },
     "circle-sensor-card": {
@@ -192,7 +192,7 @@
         "changelog": "https://github.com/thomasloven/lovelace-layout-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
         "updated_at": "2019-02-15",
-        "version": "616f74",
+        "version": "2b29c0",
         "visit_repo": "https://github.com/thomasloven/lovelace-layout-card"
     },
     "light-entity-row": {
@@ -345,8 +345,8 @@
     "useful-markdown-card": {
         "changelog": "https://github.com/thomasloven/lovelace-useful-markdown-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/useful-markdown-card.js",
-        "updated_at": "2019-02-11",
-        "version": "dfc268",
+        "updated_at": "2019-02-15",
+        "version": "9377d8",
         "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card"
     },
     "username-element": {
