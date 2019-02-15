@@ -112,10 +112,10 @@
         "visit_repo": "https://github.com/thomasloven/lovelace-column-card"
     },
     "compact-custom-header": {
-        "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/1.0.0b2",
+        "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/1.0.0b3",
         "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/master/compact-custom-header.js",
         "updated_at": "2019-02-15",
-        "version": "1.0.0b2",
+        "version": "1.0.0b3",
         "visit_repo": "https://github.com/maykar/compact-custom-header"
     },
     "entity-attributes-card": {
