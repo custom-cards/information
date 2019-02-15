@@ -16,8 +16,8 @@
     "auto-entities": {
         "changelog": "https://github.com/thomasloven/lovelace-auto-entities",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-auto-entities/master/auto-entities.js",
-        "updated_at": "2019-02-14",
-        "version": "1d85a8",
+        "updated_at": "2019-02-15",
+        "version": "f9a58c",
         "visit_repo": "https://github.com/thomasloven/lovelace-auto-entities"
     },
     "beer-card": {
@@ -289,8 +289,8 @@
     "state-switch": {
         "changelog": "https://github.com/thomasloven/lovelace-state-switch",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-state-switch/master/state-switch.js",
-        "updated_at": "2019-02-11",
-        "version": "c806ca",
+        "updated_at": "2019-02-15",
+        "version": "f06d3d",
         "visit_repo": "https://github.com/thomasloven/lovelace-state-switch"
     },
     "surveillance-card": {
