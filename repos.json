@@ -72,8 +72,8 @@
     "card-modder": {
         "changelog": "https://github.com/thomasloven/lovelace-card-modder",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
-        "updated_at": "2019-02-15",
-        "version": "c7fa10",
+        "updated_at": "2019-02-16",
+        "version": "f3d96f",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-modder"
     },
     "card-tools": {
@@ -191,7 +191,7 @@
     "layout-card": {
         "changelog": "https://github.com/thomasloven/lovelace-layout-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
-        "updated_at": "2019-02-15",
+        "updated_at": "2019-02-16",
         "version": "2b29c0",
         "visit_repo": "https://github.com/thomasloven/lovelace-layout-card"
     },
