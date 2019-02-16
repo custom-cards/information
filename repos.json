@@ -177,7 +177,7 @@
     "homeassistant-gen": {
         "changelog": "https://github.com/thomasloven/homeassistant-lovelace-gen",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/homeassistant-lovelace-gen/master/homeassistant-gen.js",
-        "updated_at": "2019-02-09",
+        "updated_at": "2019-02-16",
         "version": "29a60d",
         "visit_repo": "https://github.com/thomasloven/homeassistant-lovelace-gen"
     },
