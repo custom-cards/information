@@ -58,7 +58,7 @@
     "canvas-gauge-card": {
         "changelog": "https://github.com/custom-cards/canvas-gauge-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
-        "updated_at": "2019-01-28",
+        "updated_at": "2019-02-17",
         "version": "0.0.2",
         "visit_repo": "https://github.com/custom-cards/canvas-gauge-card"
     },
