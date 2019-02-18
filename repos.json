@@ -79,7 +79,7 @@
     "card-tools": {
         "changelog": "https://github.com/thomasloven/lovelace-card-tools",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
-        "updated_at": "2019-02-17",
+        "updated_at": "2019-02-18",
         "version": "f5bb8e",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-tools"
     },
@@ -177,7 +177,7 @@
     "homeassistant-gen": {
         "changelog": "https://github.com/thomasloven/homeassistant-lovelace-gen",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/homeassistant-lovelace-gen/master/homeassistant-gen.js",
-        "updated_at": "2019-02-16",
+        "updated_at": "2019-02-18",
         "version": "29a60d",
         "visit_repo": "https://github.com/thomasloven/homeassistant-lovelace-gen"
     },
