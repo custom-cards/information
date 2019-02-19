@@ -16,8 +16,8 @@
     "auto-entities": {
         "changelog": "https://github.com/thomasloven/lovelace-auto-entities",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-auto-entities/master/auto-entities.js",
-        "updated_at": "2019-02-16",
-        "version": "f9a58c",
+        "updated_at": "2019-02-19",
+        "version": "be1323",
         "visit_repo": "https://github.com/thomasloven/lovelace-auto-entities"
     },
     "beer-card": {
@@ -100,8 +100,8 @@
     "color-picker": {
         "changelog": "https://github.com/thomasloven/lovelace-color-picker",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-color-picker/master/color-picker.js",
-        "updated_at": "2019-02-01",
-        "version": "89631e",
+        "updated_at": "2019-02-19",
+        "version": "59a4be",
         "visit_repo": "https://github.com/thomasloven/lovelace-color-picker"
     },
     "column-card": {
