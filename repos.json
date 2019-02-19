@@ -338,7 +338,7 @@
     "upcoming-media-card": {
         "changelog": "https://github.com/custom-cards/upcoming-media-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/upcoming-media-card/master/upcoming-media-card.js",
-        "updated_at": "2019-02-18",
+        "updated_at": "2019-02-19",
         "version": "0.3.4",
         "visit_repo": "https://github.com/custom-cards/upcoming-media-card"
     },
