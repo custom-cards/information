@@ -191,7 +191,7 @@
     "layout-card": {
         "changelog": "https://github.com/thomasloven/lovelace-layout-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
-        "updated_at": "2019-02-18",
+        "updated_at": "2019-02-19",
         "version": "2b29c0",
         "visit_repo": "https://github.com/thomasloven/lovelace-layout-card"
     },
@@ -247,7 +247,7 @@
     "popup-card": {
         "changelog": "https://github.com/thomasloven/lovelace-popup-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
-        "updated_at": "2019-02-15",
+        "updated_at": "2019-02-19",
         "version": "044b08",
         "visit_repo": "https://github.com/thomasloven/lovelace-popup-card"
     },
@@ -268,7 +268,7 @@
     "slider-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
-        "updated_at": "2019-02-16",
+        "updated_at": "2019-02-19",
         "version": "be80ff",
         "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row"
     },
@@ -289,7 +289,7 @@
     "state-switch": {
         "changelog": "https://github.com/thomasloven/lovelace-state-switch",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-state-switch/master/state-switch.js",
-        "updated_at": "2019-02-15",
+        "updated_at": "2019-02-19",
         "version": "f06d3d",
         "visit_repo": "https://github.com/thomasloven/lovelace-state-switch"
     },
@@ -324,7 +324,7 @@
     "toggle-lock-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-toggle-lock-entity-row/master/toggle-lock-entity-row.js",
-        "updated_at": "2019-02-13",
+        "updated_at": "2019-02-19",
         "version": "a57ac1",
         "visit_repo": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row"
     },
