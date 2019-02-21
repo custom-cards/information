@@ -284,7 +284,7 @@
     "tracker-card": {
         "changelog": "https://github.com/custom-cards/tracker-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/tracker-card/master/tracker-card.js",
-        "version": "1.2.1",
+        "version": "1.2.2",
         "visit_repo": "https://github.com/custom-cards/tracker-card"
     },
     "upcoming-media-card": {
