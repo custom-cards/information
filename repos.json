@@ -41,6 +41,12 @@
         "version": "4eb31b",
         "visit_repo": "https://github.com/thomasloven/lovelace-browser-commander"
     },
+    "button-card": {
+        "changelog": "https://github.com/custom-cards/button-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/button-card/master/button-card.js",
+        "version": "0.0.5",
+        "visit_repo": "https://github.com/custom-cards/button-card"
+    },
     "button-entity-row": {
         "changelog": "https://github.com/custom-cards/button-entity-row",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/button-entity-row/master/button-entity-row.js",
