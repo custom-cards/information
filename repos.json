@@ -107,6 +107,12 @@
         "version": "1.0.1b2",
         "visit_repo": "https://github.com/maykar/compact-custom-header"
     },
+    "config-template-card": {
+        "changelog": "https://github.com/custom-cards/config-template-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/config-template-card/master/config-template-card.js",
+        "version": null,
+        "visit_repo": "https://github.com/custom-cards/config-template-card"
+    },
     "entity-attributes-card": {
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/entity-attributes-card/changelog.md",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/entity-attributes-card/entity-attributes-card.js",
