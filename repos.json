@@ -44,7 +44,7 @@
     "button-card": {
         "changelog": "https://github.com/custom-cards/button-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/button-card/master/button-card.js",
-        "version": "0.0.5",
+        "version": "0.0.6",
         "visit_repo": "https://github.com/custom-cards/button-card"
     },
     "button-entity-row": {
