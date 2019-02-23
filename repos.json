@@ -35,6 +35,12 @@
         "version": "0.0.1",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/bignumber-card"
     },
+    "boilerplate-card": {
+        "changelog": "https://github.com/custom-cards/boilerplate-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/boilerplate-card/master/boilerplate-card.js",
+        "version": null,
+        "visit_repo": "https://github.com/custom-cards/boilerplate-card"
+    },
     "browser-commander": {
         "changelog": "https://github.com/thomasloven/lovelace-browser-commander",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-browser-commander/master/browser-commander.js",
