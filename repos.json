@@ -230,7 +230,7 @@
     "popup-card": {
         "changelog": "https://github.com/thomasloven/lovelace-popup-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
-        "version": "024c57",
+        "version": "3bfbed",
         "visit_repo": "https://github.com/thomasloven/lovelace-popup-card"
     },
     "rmv-card": {
