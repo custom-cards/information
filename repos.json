@@ -80,7 +80,7 @@
     "card-tools": {
         "changelog": "https://github.com/thomasloven/lovelace-card-tools",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
-        "version": "8b9151",
+        "version": "01e9af",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-tools"
     },
     "circle-sensor-card": {
