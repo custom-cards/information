@@ -272,7 +272,7 @@
     "surveillance-card": {
         "changelog": "https://github.com/custom-cards/surveillance-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/surveillance-card/master/surveillance-card.js",
-        "version": "0.0.1",
+        "version": null,
         "visit_repo": "https://github.com/custom-cards/surveillance-card"
     },
     "text-element": {
