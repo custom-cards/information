@@ -149,6 +149,12 @@
         "version": "96feda",
         "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk"
     },
+    "gap-card": {
+        "changelog": "https://github.com/thomasloven/lovelace-gap-card",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-gap-card/master/gap-card.js",
+        "version": "e50950",
+        "visit_repo": "https://github.com/thomasloven/lovelace-gap-card"
+    },
     "gauge-card": {
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/gauge-card/changelog.md",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/gauge-card/gauge-card.js",
@@ -182,7 +188,7 @@
     "layout-card": {
         "changelog": "https://github.com/thomasloven/lovelace-layout-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
-        "version": "e0ec2f",
+        "version": "51f7d0",
         "visit_repo": "https://github.com/thomasloven/lovelace-layout-card"
     },
     "light-entity-row": {
