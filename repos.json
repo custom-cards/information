@@ -44,7 +44,7 @@
     "browser-commander": {
         "changelog": "https://github.com/thomasloven/lovelace-browser-commander",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-browser-commander/master/browser-commander.js",
-        "version": "46b9cd",
+        "version": "2262d7",
         "visit_repo": "https://github.com/thomasloven/lovelace-browser-commander"
     },
     "button-card": {
@@ -152,7 +152,7 @@
     "gap-card": {
         "changelog": "https://github.com/thomasloven/lovelace-gap-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-gap-card/master/gap-card.js",
-        "version": "e50950",
+        "version": "ddd996",
         "visit_repo": "https://github.com/thomasloven/lovelace-gap-card"
     },
     "gauge-card": {
