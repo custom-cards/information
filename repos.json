@@ -236,7 +236,7 @@
     "popup-card": {
         "changelog": "https://github.com/thomasloven/lovelace-popup-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
-        "version": "ee2e50",
+        "version": "f0a0fd",
         "visit_repo": "https://github.com/thomasloven/lovelace-popup-card"
     },
     "rmv-card": {
@@ -254,7 +254,7 @@
     "slider-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
-        "version": "be80ff",
+        "version": "96ed39",
         "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row"
     },
     "state-attribute-element": {
