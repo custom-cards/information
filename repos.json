@@ -37,8 +37,8 @@
     },
     "boilerplate-card": {
         "changelog": "https://github.com/custom-cards/boilerplate-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/boilerplate-card/master/boilerplate-card.js",
-        "version": null,
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/boilerplate-card/v1.0/boilerplate-card.js",
+        "version": "v1.0",
         "visit_repo": "https://github.com/custom-cards/boilerplate-card"
     },
     "browser-commander": {
