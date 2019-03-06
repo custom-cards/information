@@ -305,6 +305,12 @@
         "version": "a57ac1",
         "visit_repo": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row"
     },
+    "tracker-card": {
+        "changelog": "https://github.com/custom-cards/tracker-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/tracker-card/master/tracker-card.js",
+        "version": "1.2.6",
+        "visit_repo": "https://github.com/custom-cards/tracker-card"
+    },
     "upcoming-media-card": {
         "changelog": "https://github.com/custom-cards/upcoming-media-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/upcoming-media-card/0.3.4/upcoming-media-card.js",
