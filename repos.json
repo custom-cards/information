@@ -80,7 +80,7 @@
     "card-tools": {
         "changelog": "https://github.com/thomasloven/lovelace-card-tools",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
-        "version": "ae9a3d",
+        "version": "af5ada",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-tools"
     },
     "circle-sensor-card": {
@@ -236,7 +236,7 @@
     "popup-card": {
         "changelog": "https://github.com/thomasloven/lovelace-popup-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
-        "version": "f0a0fd",
+        "version": "2be87e",
         "visit_repo": "https://github.com/thomasloven/lovelace-popup-card"
     },
     "rmv-card": {
