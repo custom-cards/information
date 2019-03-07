@@ -217,8 +217,8 @@
     },
     "pc-card": {
         "changelog": "https://github.com/custom-cards/pc-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/pc-card/v0.0.3/pc-card.js",
-        "version": "v0.0.3",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/pc-card/master/pc-card.js",
+        "version": null,
         "visit_repo": "https://github.com/custom-cards/pc-card"
     },
     "plan-coordinates": {
