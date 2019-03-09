@@ -134,7 +134,7 @@
     "flex-table-card": {
         "changelog": "https://github.com/custom-cards/flex-table-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/flex-table-card/master/flex-table-card.js",
-        "version": "0.4.0",
+        "version": "0.5.0",
         "visit_repo": "https://github.com/custom-cards/flex-table-card"
     },
     "fold-entity-row": {
