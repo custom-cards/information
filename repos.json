@@ -188,7 +188,7 @@
     "layout-card": {
         "changelog": "https://github.com/thomasloven/lovelace-layout-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
-        "version": "5ef29f",
+        "version": "226f86",
         "visit_repo": "https://github.com/thomasloven/lovelace-layout-card"
     },
     "light-entity-row": {
