@@ -199,8 +199,8 @@
     },
     "list-card": {
         "changelog": "https://github.com/custom-cards/list-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/v0.0.7/list-card.js",
-        "version": "v0.0.7",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/v0.0.08/list-card.js",
+        "version": "v0.0.08",
         "visit_repo": "https://github.com/custom-cards/list-card"
     },
     "long-press": {
