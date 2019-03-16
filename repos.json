@@ -331,8 +331,8 @@
     },
     "vertical-stack-in-card": {
         "changelog": "https://github.com/custom-cards/vertical-stack-in-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/v0.1.1/vertical-stack-in-card.js",
-        "version": "v0.1.1",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/v0.1.2/vertical-stack-in-card.js",
+        "version": "v0.1.2",
         "visit_repo": "https://github.com/custom-cards/vertical-stack-in-card"
     }
 }
