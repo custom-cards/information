@@ -233,6 +233,12 @@
         "version": "43020c",
         "visit_repo": "https://github.com/thomasloven/lovelace-player"
     },
+    "podcast-card": {
+        "changelog": "https://github.com/custom-cards/podcast-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/podcast-card/master/podcast-card.js",
+        "version": null,
+        "visit_repo": "https://github.com/custom-cards/podcast-card"
+    },
     "popup-card": {
         "changelog": "https://github.com/thomasloven/lovelace-popup-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
