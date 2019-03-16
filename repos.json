@@ -251,6 +251,12 @@
         "version": "4bc787",
         "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row"
     },
+    "spotify-card": {
+        "changelog": "https://github.com/custom-cards/spotify-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/spotify-card/v1.1/src/spotify-card.js",
+        "version": "v1.1",
+        "visit_repo": "https://github.com/custom-cards/spotify-card"
+    },
     "state-attribute-element": {
         "changelog": "https://github.com/custom-cards/state-attribute-element",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/state-attribute-element/0.2.0/state-attribute-element.js",
