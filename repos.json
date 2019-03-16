@@ -23,23 +23,11 @@
         "version": "0.2.3",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/beer-card"
     },
-    "beer-wishlist-card": {
-        "changelog": "https://github.com/custom-cards/beer-wishlist-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/beer-wishlist-card/master/beer-wishlist-card.js",
-        "version": null,
-        "visit_repo": "https://github.com/custom-cards/beer-wishlist-card"
-    },
     "bignumber-card": {
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/bignumber-card/changelog.md",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/bignumber-card/bignumber-card.js",
         "version": "0.0.1",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/bignumber-card"
-    },
-    "boilerplate-card": {
-        "changelog": "https://github.com/custom-cards/boilerplate-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/boilerplate-card/v1.0/boilerplate-card.js",
-        "version": "v1.0",
-        "visit_repo": "https://github.com/custom-cards/boilerplate-card"
     },
     "browser-commander": {
         "changelog": "https://github.com/thomasloven/lovelace-browser-commander",
@@ -115,7 +103,7 @@
     },
     "config-template-card": {
         "changelog": "https://github.com/custom-cards/config-template-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/config-template-card/1.0.2/config-template-card.js",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/config-template-card/1.0.2/dist/config-template-card.js",
         "version": "1.0.2",
         "visit_repo": "https://github.com/custom-cards/config-template-card"
     },
@@ -235,7 +223,7 @@
     },
     "podcast-card": {
         "changelog": "https://github.com/custom-cards/podcast-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/podcast-card/master/podcast-card.js",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/podcast-card/master/dist/podcast-card.js",
         "version": null,
         "visit_repo": "https://github.com/custom-cards/podcast-card"
     },
@@ -262,12 +250,6 @@
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
         "version": "4bc787",
         "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row"
-    },
-    "spotify-card": {
-        "changelog": "https://github.com/custom-cards/spotify-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/spotify-card/v1.1/spotify-card.js",
-        "version": "v1.1",
-        "visit_repo": "https://github.com/custom-cards/spotify-card"
     },
     "state-attribute-element": {
         "changelog": "https://github.com/custom-cards/state-attribute-element",
