@@ -38,7 +38,7 @@
     "browser-commander": {
         "changelog": "https://github.com/thomasloven/lovelace-browser-commander",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-browser-commander/master/browser-commander.js",
-        "version": "d07c72",
+        "version": "dec650",
         "visit_repo": "https://github.com/thomasloven/lovelace-browser-commander"
     },
     "button-card": {
