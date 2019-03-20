@@ -14,7 +14,7 @@
     "auto-entities": {
         "changelog": "https://github.com/thomasloven/lovelace-auto-entities",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-auto-entities/master/auto-entities.js",
-        "version": "be1323",
+        "version": "e9571b",
         "visit_repo": "https://github.com/thomasloven/lovelace-auto-entities"
     },
     "bar-card": {
@@ -38,7 +38,7 @@
     "browser-commander": {
         "changelog": "https://github.com/thomasloven/lovelace-browser-commander",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-browser-commander/master/browser-commander.js",
-        "version": "18fe57",
+        "version": "d07c72",
         "visit_repo": "https://github.com/thomasloven/lovelace-browser-commander"
     },
     "button-card": {
