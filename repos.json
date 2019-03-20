@@ -109,8 +109,8 @@
     },
     "config-template-card": {
         "changelog": "https://github.com/custom-cards/config-template-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/config-template-card/1.0.4/dist/config-template-card.js",
-        "version": "1.0.4",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/config-template-card/1.0.5/dist/config-template-card.js",
+        "version": "1.0.5",
         "visit_repo": "https://github.com/custom-cards/config-template-card"
     },
     "entity-attributes-card": {
