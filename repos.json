@@ -229,8 +229,8 @@
     },
     "podcast-card": {
         "changelog": "https://github.com/custom-cards/podcast-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/podcast-card/master/dist/podcast-card.js",
-        "version": null,
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/podcast-card/1.0.0/dist/podcast-card.js",
+        "version": "1.0.0",
         "visit_repo": "https://github.com/custom-cards/podcast-card"
     },
     "popup-card": {
