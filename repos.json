@@ -14,7 +14,7 @@
     "auto-entities": {
         "changelog": "https://github.com/thomasloven/lovelace-auto-entities",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-auto-entities/master/auto-entities.js",
-        "version": "e9571b",
+        "version": "8057bd",
         "visit_repo": "https://github.com/thomasloven/lovelace-auto-entities"
     },
     "bar-card": {
@@ -74,7 +74,7 @@
     "card-tools": {
         "changelog": "https://github.com/thomasloven/lovelace-card-tools",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
-        "version": "ca9579",
+        "version": "65b48d",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-tools"
     },
     "circle-sensor-card": {
