@@ -68,13 +68,13 @@
     "card-modder": {
         "changelog": "https://github.com/thomasloven/lovelace-card-modder",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
-        "version": "225a63",
+        "version": "2ffb12",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-modder"
     },
     "card-tools": {
         "changelog": "https://github.com/thomasloven/lovelace-card-tools",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
-        "version": "65b48d",
+        "version": "c885db",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-tools"
     },
     "circle-sensor-card": {
@@ -134,7 +134,7 @@
     "fold-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
-        "version": "6d11d3",
+        "version": "ba9588",
         "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
     },
     "fullykiosk": {
