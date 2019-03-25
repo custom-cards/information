@@ -277,7 +277,7 @@
     },
     "state-element": {
         "changelog": "https://github.com/custom-cards/state-element",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/master/state-element.js",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/0.0.1/state-element.js",
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-cards/state-element"
     },
