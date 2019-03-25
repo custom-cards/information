@@ -19,8 +19,8 @@
     },
     "bar-card": {
         "changelog": "https://github.com/custom-cards/bar-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/bar-card/0.1.2/bar-card.js",
-        "version": "0.1.2",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/bar-card/0.1.3/bar-card.js",
+        "version": "0.1.3",
         "visit_repo": "https://github.com/custom-cards/bar-card"
     },
     "beer-card": {
@@ -277,7 +277,7 @@
     },
     "state-element": {
         "changelog": "https://github.com/custom-cards/state-element",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/0.0.1/state-element.js",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/master/state-element.js",
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-cards/state-element"
     },
