@@ -170,7 +170,7 @@
     "homeassistant-gen": {
         "changelog": "https://github.com/thomasloven/homeassistant-lovelace-gen",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/homeassistant-lovelace-gen/master/homeassistant-gen.js",
-        "version": "c6c0f0",
+        "version": "c0521e",
         "visit_repo": "https://github.com/thomasloven/homeassistant-lovelace-gen"
     },
     "krisinfo-card": {
