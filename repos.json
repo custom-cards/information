@@ -102,9 +102,9 @@
         "visit_repo": "https://github.com/thomasloven/lovelace-column-card"
     },
     "compact-custom-header": {
-        "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/1.0.2b3",
-        "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/1.0.2b3/compact-custom-header.js",
-        "version": "1.0.2b3",
+        "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/1.0.2b4",
+        "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/1.0.2b4/compact-custom-header.js",
+        "version": "1.0.2b4",
         "visit_repo": "https://github.com/maykar/compact-custom-header"
     },
     "config-template-card": {
@@ -182,7 +182,7 @@
     "layout-card": {
         "changelog": "https://github.com/thomasloven/lovelace-layout-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
-        "version": "d4acb7",
+        "version": "4d3408",
         "visit_repo": "https://github.com/thomasloven/lovelace-layout-card"
     },
     "light-entity-row": {
