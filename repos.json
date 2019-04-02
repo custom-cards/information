@@ -19,8 +19,8 @@
     },
     "bar-card": {
         "changelog": "https://github.com/custom-cards/bar-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/bar-card/0.1.8/bar-card.js",
-        "version": "0.1.8",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/bar-card/0.1.9/bar-card.js",
+        "version": "0.1.9",
         "visit_repo": "https://github.com/custom-cards/bar-card"
     },
     "beer-card": {
