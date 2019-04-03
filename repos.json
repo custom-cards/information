@@ -55,8 +55,8 @@
     },
     "camera-card": {
         "changelog": "https://github.com/custom-cards/camera-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/camera-card/1.0/camera-card.js",
-        "version": "1.0",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/camera-card/1.1/camera-card.js",
+        "version": "1.1",
         "visit_repo": "https://github.com/custom-cards/camera-card"
     },
     "canvas-gauge-card": {
@@ -152,7 +152,7 @@
     "gap-card": {
         "changelog": "https://github.com/thomasloven/lovelace-gap-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-gap-card/master/gap-card.js",
-        "version": "ddd996",
+        "version": "d978f1",
         "visit_repo": "https://github.com/thomasloven/lovelace-gap-card"
     },
     "gauge-card": {
