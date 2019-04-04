@@ -55,8 +55,8 @@
     },
     "camera-card": {
         "changelog": "https://github.com/custom-cards/camera-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/camera-card/1.1/camera-card.js",
-        "version": "1.1",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/camera-card/1.2/camera-card.js",
+        "version": "1.2",
         "visit_repo": "https://github.com/custom-cards/camera-card"
     },
     "canvas-gauge-card": {
