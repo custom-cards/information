@@ -108,9 +108,9 @@
         "visit_repo": "https://github.com/thomasloven/lovelace-column-card"
     },
     "compact-custom-header": {
-        "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/1.0.2b8",
-        "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/1.0.2b8/compact-custom-header.js",
-        "version": "1.0.2b8",
+        "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/1.0.2b9",
+        "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/1.0.2b9/compact-custom-header.js",
+        "version": "1.0.2b9",
         "visit_repo": "https://github.com/maykar/compact-custom-header"
     },
     "config-template-card": {
@@ -235,8 +235,8 @@
     },
     "podcast-card": {
         "changelog": "https://github.com/custom-cards/podcast-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/podcast-card/1.0.1/dist/podcast-card.js",
-        "version": "1.0.1",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/podcast-card/1.0.2/dist/podcast-card.js",
+        "version": "1.0.2",
         "visit_repo": "https://github.com/custom-cards/podcast-card"
     },
     "popup-card": {
@@ -253,8 +253,8 @@
     },
     "roku-card": {
         "changelog": "https://github.com/custom-cards/roku-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/v0.0.6/roku-card.js",
-        "version": "v0.0.6",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/0.0.7/roku-card.js",
+        "version": "0.0.7",
         "visit_repo": "https://github.com/custom-cards/roku-card"
     },
     "secondaryinfo-entity-row": {
@@ -298,6 +298,12 @@
         "remote_location": "https://raw.githubusercontent.com/custom-cards/surveillance-card/master/surveillance-card.js",
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-cards/surveillance-card"
+    },
+    "text-divider-row": {
+        "changelog": "https://github.com/custom-cards/text-divider-row",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/text-divider-row/1.0.1/text-divider-row.js",
+        "version": "1.0.1",
+        "visit_repo": "https://github.com/custom-cards/text-divider-row"
     },
     "text-element": {
         "changelog": "https://github.com/custom-cards/text-element",
