@@ -320,7 +320,7 @@
     "theme-maker": {
         "changelog": "https://github.com/thomasloven/lovelace-theme-maker",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-theme-maker/master/theme-maker.js",
-        "version": "91f83c",
+        "version": "32794e",
         "visit_repo": "https://github.com/thomasloven/lovelace-theme-maker"
     },
     "thermostat-card": {
