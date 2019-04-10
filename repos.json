@@ -122,7 +122,7 @@
     "dummy-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-dummy-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-dummy-entity-row/master/dummy-entity-row.js",
-        "version": "35f165",
+        "version": "c87792",
         "visit_repo": "https://github.com/thomasloven/lovelace-dummy-entity-row"
     },
     "entity-attributes-card": {
@@ -220,6 +220,12 @@
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/monster-card/monster-card.js",
         "version": "0.2.3",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card"
+    },
+    "more-info-card": {
+        "changelog": "https://github.com/thomasloven/lovelace-more-info-card",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-more-info-card/master/more-info-card.js",
+        "version": "eb8e89",
+        "visit_repo": "https://github.com/thomasloven/lovelace-more-info-card"
     },
     "pc-card": {
         "changelog": "https://github.com/custom-cards/pc-card",
