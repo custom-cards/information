@@ -224,7 +224,7 @@
     "more-info-card": {
         "changelog": "https://github.com/thomasloven/lovelace-more-info-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-more-info-card/master/more-info-card.js",
-        "version": "eb8e89",
+        "version": "3bcc9c",
         "visit_repo": "https://github.com/thomasloven/lovelace-more-info-card"
     },
     "pc-card": {
