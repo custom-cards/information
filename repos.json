@@ -167,6 +167,12 @@
         "version": "d978f1",
         "visit_repo": "https://github.com/thomasloven/lovelace-gap-card"
     },
+    "gauge-card": {
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/gauge-card/changelog.md",
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/gauge-card/gauge-card.js",
+        "version": "0.2.0",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/gauge-card"
+    },
     "group-card": {
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/group-card/changelog.md",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/group-card/group-card.js",
