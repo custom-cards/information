@@ -257,6 +257,12 @@
         "version": "1.0.2",
         "visit_repo": "https://github.com/custom-cards/podcast-card"
     },
+    "pollenkoll-card": {
+        "changelog": "https://github.com/isabellaalstrom/pollenkoll-card",
+        "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/pollenkoll-card/master/pollenkoll-card.js",
+        "version": "0.0.5",
+        "visit_repo": "https://github.com/isabellaalstrom/pollenkoll-card"
+    },
     "popup-card": {
         "changelog": "https://github.com/thomasloven/lovelace-popup-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
