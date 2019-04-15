@@ -356,7 +356,7 @@
     "time-input-row": {
         "changelog": "https://github.com/thomasloven/lovelace-time-input-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-time-input-row/master/time-input-row.js",
-        "version": "0eafa1",
+        "version": "a59058",
         "visit_repo": "https://github.com/thomasloven/lovelace-time-input-row"
     },
     "toggle-lock-entity-row": {
