@@ -361,8 +361,8 @@
     },
     "timer-card": {
         "changelog": "https://github.com/custom-cards/timer-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/timer-card/0.1.0/dist/timer-card.js",
-        "version": "0.1.0",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/timer-card/master/dist/timer-card.js",
+        "version": null,
         "visit_repo": "https://github.com/custom-cards/timer-card"
     },
     "toggle-lock-entity-row": {
