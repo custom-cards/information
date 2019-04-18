@@ -1,4 +1,10 @@
 {
+    "aftership-card": {
+        "changelog": "https://github.com/custom-cards/aftership-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/0.0.1/aftership-card.js",
+        "version": "0.0.1",
+        "visit_repo": "https://github.com/custom-cards/aftership-card"
+    },
     "alarm_control_panel-card": {
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/alarm_control_panel-card/changelog.md",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/alarm_control_panel-card/alarm_control_panel-card.js",
