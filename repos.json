@@ -395,12 +395,6 @@
         "version": "58e0a5",
         "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card"
     },
-    "username-element": {
-        "changelog": "https://github.com/custom-cards/username-element",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/username-element/0.0.1/username-element.js",
-        "version": "0.0.1",
-        "visit_repo": "https://github.com/custom-cards/username-element"
-    },
     "vertical-stack-in-card": {
         "changelog": "https://github.com/custom-cards/vertical-stack-in-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/vertical-stack-in-card/v0.1.2/vertical-stack-in-card.js",
