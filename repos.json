@@ -331,8 +331,8 @@
     },
     "text-divider-row": {
         "changelog": "https://github.com/custom-cards/text-divider-row",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/text-divider-row/1.0.1/text-divider-row.js",
-        "version": "1.0.1",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/text-divider-row/1.0.3/text-divider-row.js",
+        "version": "1.0.3",
         "visit_repo": "https://github.com/custom-cards/text-divider-row"
     },
     "text-element": {
@@ -395,11 +395,11 @@
         "version": "58e0a5",
         "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card"
     },
-    "username-element": {	
-        "changelog": "https://github.com/custom-cards/username-element",	
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/username-element/0.0.1/username-element.js",	
-        "version": "0.0.1",	
-        "visit_repo": "https://github.com/custom-cards/username-element"	
+    "username-element": {
+        "changelog": "https://github.com/custom-cards/username-element",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/username-element/0.0.1/username-element.js",
+        "version": "0.0.1",
+        "visit_repo": "https://github.com/custom-cards/username-element"
     },
     "vertical-stack-in-card": {
         "changelog": "https://github.com/custom-cards/vertical-stack-in-card",
