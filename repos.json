@@ -253,8 +253,8 @@
     },
     "podcast-card": {
         "changelog": "https://github.com/custom-cards/podcast-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/podcast-card/1.0.2/dist/podcast-card.js",
-        "version": "1.0.2",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/podcast-card/1.0.3/dist/podcast-card.js",
+        "version": "1.0.3",
         "visit_repo": "https://github.com/custom-cards/podcast-card"
     },
     "pollenkoll-card": {
