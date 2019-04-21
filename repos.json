@@ -43,8 +43,8 @@
     },
     "button-card": {
         "changelog": "https://github.com/custom-cards/button-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/button-card/0.3.0/button-card.js",
-        "version": "0.3.0",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/button-card/0.4.0/button-card.js",
+        "version": "0.4.0",
         "visit_repo": "https://github.com/custom-cards/button-card"
     },
     "button-entity-row": {
@@ -200,7 +200,7 @@
     "layout-card": {
         "changelog": "https://github.com/thomasloven/lovelace-layout-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
-        "version": "4d3408",
+        "version": "6e5824",
         "visit_repo": "https://github.com/thomasloven/lovelace-layout-card"
     },
     "light-entity-row": {
