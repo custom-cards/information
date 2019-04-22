@@ -43,8 +43,8 @@
     },
     "button-card": {
         "changelog": "https://github.com/custom-cards/button-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/button-card/0.4.0/button-card.js",
-        "version": "0.4.0",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/button-card/0.4.1/button-card.js",
+        "version": "0.4.1",
         "visit_repo": "https://github.com/custom-cards/button-card"
     },
     "button-entity-row": {
@@ -266,7 +266,7 @@
     "pollenkoll-card": {
         "changelog": "https://github.com/isabellaalstrom/pollenkoll-card",
         "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/pollenkoll-card/master/pollenkoll-card.js",
-        "version": "0.0.5",
+        "version": "0.1.0",
         "visit_repo": "https://github.com/isabellaalstrom/pollenkoll-card"
     },
     "popup-card": {
