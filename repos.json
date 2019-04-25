@@ -53,12 +53,6 @@
         "version": "v0.1.3",
         "visit_repo": "https://github.com/custom-cards/button-entity-row"
     },
-    "camera-card": {
-        "changelog": "https://github.com/custom-cards/camera-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/camera-card/1.2/camera-card.js",
-        "version": "1.2",
-        "visit_repo": "https://github.com/custom-cards/camera-card"
-    },
     "canvas-gauge-card": {
         "changelog": "https://github.com/custom-cards/canvas-gauge-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/master/canvas-gauge-card.js",
