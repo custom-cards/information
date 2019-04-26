@@ -1,8 +1,8 @@
 {
     "aftership-card": {
         "changelog": "https://github.com/custom-cards/aftership-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/0.0.1/aftership-card.js",
-        "version": "0.0.1",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/1.0.0/dist/aftership-card.js",
+        "version": "1.0.0",
         "visit_repo": "https://github.com/custom-cards/aftership-card"
     },
     "alarm_control_panel-card": {
