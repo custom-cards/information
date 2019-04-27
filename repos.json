@@ -146,7 +146,7 @@
     "flower-card": {
         "changelog": "https://github.com/thomasloven/lovelace-flower-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-flower-card/master/flower-card.js",
-        "version": "29889a",
+        "version": "dd064a",
         "visit_repo": "https://github.com/thomasloven/lovelace-flower-card"
     },
     "fold-entity-row": {
