@@ -266,7 +266,7 @@
     "pollenkoll-card": {
         "changelog": "https://github.com/isabellaalstrom/pollenkoll-card",
         "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/pollenkoll-card/master/pollenkoll-card.js",
-        "version": "0.1.0",
+        "version": "0.2.0",
         "visit_repo": "https://github.com/isabellaalstrom/pollenkoll-card"
     },
     "popup-card": {
