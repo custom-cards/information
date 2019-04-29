@@ -35,12 +35,6 @@
         "version": "0.0.1",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/bignumber-card"
     },
-    "browser-commander": {
-        "changelog": "https://github.com/thomasloven/lovelace-browser-commander",
-        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-browser-commander/master/browser-commander.js",
-        "version": "dec650",
-        "visit_repo": "https://github.com/thomasloven/lovelace-browser-commander"
-    },
     "button-card": {
         "changelog": "https://github.com/custom-cards/button-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/button-card/1.3.0/dist/button-card.js",
