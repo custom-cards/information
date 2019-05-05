@@ -277,8 +277,8 @@
     },
     "radial-menu": {
         "changelog": "https://github.com/custom-cards/radial-menu",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/radial-menu/1.4.0/dist/radial-menu.js",
-        "version": "1.4.0",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/radial-menu/1.4.1/dist/radial-menu.js",
+        "version": "1.4.1",
         "visit_repo": "https://github.com/custom-cards/radial-menu"
     },
     "rmv-card": {
