@@ -385,8 +385,8 @@
     },
     "upcoming-media-card": {
         "changelog": "https://github.com/custom-cards/upcoming-media-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/upcoming-media-card/0.3.6/upcoming-media-card.js",
-        "version": "0.3.6",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/upcoming-media-card/0.3.7/upcoming-media-card.js",
+        "version": "0.3.7",
         "visit_repo": "https://github.com/custom-cards/upcoming-media-card"
     },
     "useful-markdown-card": {
