@@ -254,7 +254,7 @@
     "player": {
         "changelog": "https://github.com/thomasloven/lovelace-player",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-player/master/player.js",
-        "version": "e0a474",
+        "version": "532667",
         "visit_repo": "https://github.com/thomasloven/lovelace-player"
     },
     "podcast-card": {
