@@ -115,8 +115,8 @@
     },
     "cover-element": {
         "changelog": "https://github.com/custom-cards/cover-element",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/cover-element/0.2.0/src/cover-element.js",
-        "version": "0.2.0",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/cover-element/0.3.0/src/cover-element.js",
+        "version": "0.3.0",
         "visit_repo": "https://github.com/custom-cards/cover-element"
     },
     "dummy-entity-row": {
