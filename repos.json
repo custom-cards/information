@@ -119,6 +119,12 @@
         "version": "0.3.0",
         "visit_repo": "https://github.com/custom-cards/cover-element"
     },
+    "decluttering-card": {
+        "changelog": "https://github.com/custom-cards/decluttering-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/decluttering-card/0.1.0/dist/decluttering-card.js",
+        "version": "0.1.0",
+        "visit_repo": "https://github.com/custom-cards/decluttering-card"
+    },
     "dummy-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-dummy-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-dummy-entity-row/master/dummy-entity-row.js",
