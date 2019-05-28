@@ -74,7 +74,7 @@
     "card-tools": {
         "changelog": "https://github.com/thomasloven/lovelace-card-tools",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-tools/master/card-tools.js",
-        "version": "dae887",
+        "version": "e464e1",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-tools"
     },
     "circle-sensor-card": {
@@ -220,12 +220,6 @@
         "remote_location": "https://raw.githubusercontent.com/custom-cards/light-entity-row/v0.2.2/light-entity-row.js",
         "version": "v0.2.2",
         "visit_repo": "https://github.com/custom-cards/light-entity-row"
-    },
-    "list-card": {
-        "changelog": "https://github.com/custom-cards/list-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/v0.0.08/list-card.js",
-        "version": "v0.0.08",
-        "visit_repo": "https://github.com/custom-cards/list-card"
     },
     "long-press": {
         "changelog": "https://github.com/thomasloven/lovelace-long-press",
