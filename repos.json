@@ -192,10 +192,10 @@
         "visit_repo": "https://github.com/custom-cards/group-element"
     },
     "home-setter": {
-        "changelog": "https://github.com/custom-cards/home-setter",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/home-setter/0.0.2/home-setter.js",
-        "version": "0.0.2",
-        "visit_repo": "https://github.com/custom-cards/home-setter"
+        "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/home-setter/changelog.md",
+        "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/home-setter/home-setter.js",
+        "version": "0.0.1",
+        "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/home-setter"
     },
     "homeassistant-gen": {
         "changelog": "https://github.com/thomasloven/homeassistant-lovelace-gen",
