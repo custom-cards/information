@@ -137,6 +137,12 @@
         "version": "0.1.1",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/entity-attributes-card"
     },
+    "ext-weblink": {
+        "changelog": "https://github.com/custom-cards/ext-weblink",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/ext-weblink/0.3.2/ext-weblink.js",
+        "version": "0.3.2",
+        "visit_repo": "https://github.com/custom-cards/ext-weblink"
+    },
     "flex-table-card": {
         "changelog": "https://github.com/custom-cards/flex-table-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/flex-table-card/master/flex-table-card.js",
