@@ -187,8 +187,8 @@
     },
     "group-element": {
         "changelog": "https://github.com/custom-cards/group-element",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/group-element/0.3.0/src/group-element.js",
-        "version": "0.3.0",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/group-element/0.4.0/src/group-element.js",
+        "version": "0.4.0",
         "visit_repo": "https://github.com/custom-cards/group-element"
     },
     "home-setter": {
