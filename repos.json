@@ -317,12 +317,6 @@
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-cards/state-attribute-element"
     },
-    "state-element": {
-        "changelog": "https://github.com/custom-cards/state-element",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/0.0.1/state-element.js",
-        "version": "0.0.1",
-        "visit_repo": "https://github.com/custom-cards/state-element"
-    },
     "state-switch": {
         "changelog": "https://github.com/thomasloven/lovelace-state-switch",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-state-switch/master/state-switch.js",
