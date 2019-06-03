@@ -335,6 +335,12 @@
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-cards/surveillance-card"
     },
+    "text-action-element": {
+        "changelog": "https://github.com/custom-cards/text-action-element",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/text-action-element/0.1.0/src/text-action-element.js",
+        "version": "0.1.0",
+        "visit_repo": "https://github.com/custom-cards/text-action-element"
+    },
     "text-divider-row": {
         "changelog": "https://github.com/custom-cards/text-divider-row",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/text-divider-row/1.0.3/text-divider-row.js",
