@@ -43,8 +43,8 @@
     },
     "button-card": {
         "changelog": "https://github.com/custom-cards/button-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/button-card/1.10.2/dist/button-card.js",
-        "version": "1.10.2",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/button-card/1.11.0/dist/button-card.js",
+        "version": "1.11.0",
         "visit_repo": "https://github.com/custom-cards/button-card"
     },
     "button-entity-row": {
