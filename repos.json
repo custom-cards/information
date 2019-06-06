@@ -233,6 +233,12 @@
         "version": "ca07e2",
         "visit_repo": "https://github.com/thomasloven/lovelace-long-press"
     },
+    "markdown-mod": {
+        "changelog": "https://github.com/thomasloven/lovelace-markdown-mod",
+        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-markdown-mod/master/markdown-mod.js",
+        "version": "269e17",
+        "visit_repo": "https://github.com/thomasloven/lovelace-markdown-mod"
+    },
     "monster-card": {
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card/changelog.md",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/monster-card/monster-card.js",
