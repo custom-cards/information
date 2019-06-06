@@ -236,7 +236,7 @@
     "markdown-mod": {
         "changelog": "https://github.com/thomasloven/lovelace-markdown-mod",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-markdown-mod/master/markdown-mod.js",
-        "version": "269e17",
+        "version": "798f9f",
         "visit_repo": "https://github.com/thomasloven/lovelace-markdown-mod"
     },
     "monster-card": {
@@ -404,7 +404,7 @@
     "useful-markdown-card": {
         "changelog": "https://github.com/thomasloven/lovelace-useful-markdown-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/useful-markdown-card.js",
-        "version": "b8348a",
+        "version": "b47860",
         "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card"
     },
     "username-element": {
