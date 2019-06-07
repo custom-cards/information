@@ -227,12 +227,6 @@
         "version": "v0.0.08",
         "visit_repo": "https://github.com/custom-cards/list-card"
     },
-    "long-press": {
-        "changelog": "https://github.com/thomasloven/lovelace-long-press",
-        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-long-press/master/long-press.js",
-        "version": "ca07e2",
-        "visit_repo": "https://github.com/thomasloven/lovelace-long-press"
-    },
     "markdown-mod": {
         "changelog": "https://github.com/thomasloven/lovelace-markdown-mod",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-markdown-mod/master/markdown-mod.js",
