@@ -121,8 +121,8 @@
     },
     "decluttering-card": {
         "changelog": "https://github.com/custom-cards/decluttering-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/decluttering-card/0.1.0/dist/decluttering-card.js",
-        "version": "0.1.0",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/decluttering-card/0.2.0/dist/decluttering-card.js",
+        "version": "0.2.0",
         "visit_repo": "https://github.com/custom-cards/decluttering-card"
     },
     "dummy-entity-row": {
