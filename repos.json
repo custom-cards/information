@@ -319,8 +319,8 @@
     },
     "spotify-card": {
         "changelog": "https://github.com/custom-cards/spotify-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/spotify-card/v1.5/src/spotify-card.js",
-        "version": "v1.5",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/spotify-card/v1.6/src/spotify-card.js",
+        "version": "v1.6",
         "visit_repo": "https://github.com/custom-cards/spotify-card"
     },
     "state-attribute-element": {
