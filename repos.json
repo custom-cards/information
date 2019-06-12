@@ -395,12 +395,6 @@
         "version": "1.2.6",
         "visit_repo": "https://github.com/custom-cards/tracker-card"
     },
-    "untappd-card": {
-        "changelog": "https://github.com/custom-cards/untappd-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/untappd-card/master/dist/untappd-card.js",
-        "version": null,
-        "visit_repo": "https://github.com/custom-cards/untappd-card"
-    },
     "upcoming-media-card": {
         "changelog": "https://github.com/custom-cards/upcoming-media-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/upcoming-media-card/0.4.0/upcoming-media-card.js",
