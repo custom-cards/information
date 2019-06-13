@@ -14,7 +14,7 @@
     "auto-entities": {
         "changelog": "https://github.com/thomasloven/lovelace-auto-entities",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-auto-entities/master/auto-entities.js",
-        "version": "8057bd",
+        "version": "4f2189",
         "visit_repo": "https://github.com/thomasloven/lovelace-auto-entities"
     },
     "bar-card": {
