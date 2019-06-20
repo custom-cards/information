@@ -68,7 +68,7 @@
     "card-mod": {
         "changelog": "https://github.com/thomasloven/lovelace-card-mod",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-mod/master/card-mod.js",
-        "version": "f47980",
+        "version": "5cf652",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-mod"
     },
     "card-modder": {
@@ -170,7 +170,7 @@
     "fold-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-fold-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fold-entity-row/master/fold-entity-row.js",
-        "version": "ce1093",
+        "version": "d3e8e5",
         "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
     },
     "fullykiosk": {
@@ -248,7 +248,7 @@
     "markdown-mod": {
         "changelog": "https://github.com/thomasloven/lovelace-markdown-mod",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-markdown-mod/master/markdown-mod.js",
-        "version": "316762",
+        "version": "09f056",
         "visit_repo": "https://github.com/thomasloven/lovelace-markdown-mod"
     },
     "monster-card": {
@@ -320,7 +320,7 @@
     "slider-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-slider-entity-row/master/slider-entity-row.js",
-        "version": "be09e3",
+        "version": "93fe89",
         "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row"
     },
     "spotify-card": {
