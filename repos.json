@@ -229,8 +229,8 @@
     },
     "light-entity-row": {
         "changelog": "https://github.com/custom-cards/light-entity-row",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/light-entity-row/v0.2.2/light-entity-row.js",
-        "version": "v0.2.2",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/light-entity-row/master/light-entity-row.js",
+        "version": "0.2.4",
         "visit_repo": "https://github.com/custom-cards/light-entity-row"
     },
     "list-card": {
