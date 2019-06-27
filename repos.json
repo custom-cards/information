@@ -108,9 +108,9 @@
         "visit_repo": "https://github.com/thomasloven/lovelace-column-card"
     },
     "compact-custom-header": {
-        "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/1.0.4b9",
-        "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/1.0.4b9/compact-custom-header.js",
-        "version": "1.0.4b9",
+        "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/1.1.0",
+        "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/1.1.0/compact-custom-header.js",
+        "version": "1.1.0",
         "visit_repo": "https://github.com/maykar/compact-custom-header"
     },
     "config-template-card": {
