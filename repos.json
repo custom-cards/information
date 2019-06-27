@@ -413,12 +413,6 @@
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-cards/upcoming-media-card"
     },
-    "useful-markdown-card": {
-        "changelog": "https://github.com/thomasloven/lovelace-useful-markdown-card",
-        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-useful-markdown-card/master/useful-markdown-card.js",
-        "version": "b47860",
-        "visit_repo": "https://github.com/thomasloven/lovelace-useful-markdown-card"
-    },
     "username-element": {
         "changelog": "https://github.com/custom-cards/username-element",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/username-element/0.0.1/username-element.js",
