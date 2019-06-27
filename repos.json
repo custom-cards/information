@@ -215,6 +215,12 @@
         "version": "c0521e",
         "visit_repo": "https://github.com/thomasloven/homeassistant-lovelace-gen"
     },
+    "krisinfo-card": {
+        "changelog": "https://github.com/isabellaalstrom/krisinfo-card",
+        "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/krisinfo-card/master/krisinfo-card.js",
+        "version": "1.2.0",
+        "visit_repo": "https://github.com/isabellaalstrom/krisinfo-card"
+    },
     "layout-card": {
         "changelog": "https://github.com/thomasloven/lovelace-layout-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
