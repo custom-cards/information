@@ -108,9 +108,9 @@
         "visit_repo": "https://github.com/thomasloven/lovelace-column-card"
     },
     "compact-custom-header": {
-        "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/1.1.1",
-        "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/1.1.1/compact-custom-header.js",
-        "version": "1.1.1",
+        "changelog": "https://github.com/maykar/compact-custom-header/releases/tag/1.1.2",
+        "remote_location": "https://raw.githubusercontent.com/maykar/compact-custom-header/1.1.2/compact-custom-header.js",
+        "version": "1.1.2",
         "visit_repo": "https://github.com/maykar/compact-custom-header"
     },
     "config-template-card": {
@@ -214,12 +214,6 @@
         "remote_location": "https://raw.githubusercontent.com/thomasloven/homeassistant-lovelace-gen/master/homeassistant-gen.js",
         "version": "c0521e",
         "visit_repo": "https://github.com/thomasloven/homeassistant-lovelace-gen"
-    },
-    "krisinfo-card": {
-        "changelog": "https://github.com/isabellaalstrom/krisinfo-card",
-        "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/krisinfo-card/master/krisinfo-card.js",
-        "version": "1.2.0",
-        "visit_repo": "https://github.com/isabellaalstrom/krisinfo-card"
     },
     "layout-card": {
         "changelog": "https://github.com/thomasloven/lovelace-layout-card",
