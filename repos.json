@@ -173,12 +173,6 @@
         "version": "f0486b",
         "visit_repo": "https://github.com/thomasloven/lovelace-fold-entity-row"
     },
-    "fullykiosk": {
-        "changelog": "https://github.com/thomasloven/lovelace-fullykiosk",
-        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-fullykiosk/master/fullykiosk.js",
-        "version": "96feda",
-        "visit_repo": "https://github.com/thomasloven/lovelace-fullykiosk"
-    },
     "gap-card": {
         "changelog": "https://github.com/thomasloven/lovelace-gap-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-gap-card/master/gap-card.js",
