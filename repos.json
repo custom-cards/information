@@ -65,12 +65,6 @@
         "version": "f68ed5",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-loader"
     },
-    "card-mod": {
-        "changelog": "https://github.com/thomasloven/lovelace-card-mod",
-        "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-mod/master/card-mod.js",
-        "version": "5cf652",
-        "visit_repo": "https://github.com/thomasloven/lovelace-card-mod"
-    },
     "card-modder": {
         "changelog": "https://github.com/thomasloven/lovelace-card-modder",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-modder/master/card-modder.js",
