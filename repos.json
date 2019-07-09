@@ -307,8 +307,8 @@
     },
     "roku-card": {
         "changelog": "https://github.com/custom-cards/roku-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/master/roku-card.js",
-        "version": null,
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/0.0.7/roku-card.js",
+        "version": "0.0.7",
         "visit_repo": "https://github.com/custom-cards/roku-card"
     },
     "secondaryinfo-entity-row": {
