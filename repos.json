@@ -155,6 +155,12 @@
         "version": "0.3.2",
         "visit_repo": "https://github.com/custom-cards/ext-weblink"
     },
+    "favicon-counter": {
+        "changelog": "https://github.com/custom-cards/favicon-counter",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/favicon-counter/master/favicon-counter.js",
+        "version": null,
+        "visit_repo": "https://github.com/custom-cards/favicon-counter"
+    },
     "flex-table-card": {
         "changelog": "https://github.com/custom-cards/flex-table-card",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/flex-table-card/master/flex-table-card.js",
