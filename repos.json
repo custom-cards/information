@@ -235,8 +235,8 @@
     },
     "list-card": {
         "changelog": "https://github.com/custom-cards/list-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/v0.0.08/list-card.js",
-        "version": "v0.0.08",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/0.0.9/list-card.js",
+        "version": "0.0.9",
         "visit_repo": "https://github.com/custom-cards/list-card"
     },
     "long-press": {
@@ -262,6 +262,12 @@
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-more-info-card/master/more-info-card.js",
         "version": "3bcc9c",
         "visit_repo": "https://github.com/thomasloven/lovelace-more-info-card"
+    },
+    "nintendo-wishlist-card": {
+        "changelog": "https://github.com/custom-cards/nintendo-wishlist-card",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/nintendo-wishlist-card/master/nintendo-wishlist-card.js",
+        "version": null,
+        "visit_repo": "https://github.com/custom-cards/nintendo-wishlist-card"
     },
     "pc-card": {
         "changelog": "https://github.com/custom-cards/pc-card",
@@ -307,8 +313,8 @@
     },
     "roku-card": {
         "changelog": "https://github.com/custom-cards/roku-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/0.0.7/roku-card.js",
-        "version": "0.0.7",
+        "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/0.0.8/roku-card.js",
+        "version": "0.0.8",
         "visit_repo": "https://github.com/custom-cards/roku-card"
     },
     "secondaryinfo-entity-row": {
