@@ -215,12 +215,6 @@
         "version": "0.0.1",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/home-setter"
     },
-    "homeassistant-gen": {
-        "changelog": "https://github.com/thomasloven/homeassistant-lovelace-gen",
-        "remote_location": "https://raw.githubusercontent.com/thomasloven/homeassistant-lovelace-gen/master/homeassistant-gen.js",
-        "version": "c0521e",
-        "visit_repo": "https://github.com/thomasloven/homeassistant-lovelace-gen"
-    },
     "krisinfo-card": {
         "changelog": "https://github.com/isabellaalstrom/krisinfo-card",
         "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/krisinfo-card/master/krisinfo-card.js",
