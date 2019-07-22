@@ -1,10 +1,4 @@
 {
-    "aftership-card": {
-        "changelog": "https://github.com/custom-cards/aftership-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/aftership-card/1.1.0/dist/aftership-card.js",
-        "version": "1.1.0",
-        "visit_repo": "https://github.com/custom-cards/aftership-card"
-    },
     "alarm_control_panel-card": {
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/alarm_control_panel-card/changelog.md",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/alarm_control_panel-card/alarm_control_panel-card.js",
@@ -16,12 +10,6 @@
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-auto-entities/master/auto-entities.js",
         "version": "4f2189",
         "visit_repo": "https://github.com/thomasloven/lovelace-auto-entities"
-    },
-    "bar-card": {
-        "changelog": "https://github.com/custom-cards/bar-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/bar-card/1.3.0/bar-card.js",
-        "version": "1.3.0",
-        "visit_repo": "https://github.com/custom-cards/bar-card"
     },
     "beer-card": {
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/beer-card/changelog.md",
@@ -40,24 +28,6 @@
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-browser-commander/master/browser-commander.js",
         "version": "dec650",
         "visit_repo": "https://github.com/thomasloven/lovelace-browser-commander"
-    },
-    "button-card": {
-        "changelog": "https://github.com/custom-cards/button-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/button-card/1.11.1/dist/button-card.js",
-        "version": "1.11.1",
-        "visit_repo": "https://github.com/custom-cards/button-card"
-    },
-    "button-entity-row": {
-        "changelog": "https://github.com/custom-cards/button-entity-row",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/button-entity-row/v0.1.3/button-entity-row.js",
-        "version": "v0.1.3",
-        "visit_repo": "https://github.com/custom-cards/button-entity-row"
-    },
-    "canvas-gauge-card": {
-        "changelog": "https://github.com/custom-cards/canvas-gauge-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/canvas-gauge-card/0.0.2/canvas-gauge-card.js",
-        "version": "0.0.2",
-        "visit_repo": "https://github.com/custom-cards/canvas-gauge-card"
     },
     "card-loader": {
         "changelog": "https://github.com/thomasloven/lovelace-card-loader",
@@ -83,12 +53,6 @@
         "version": "0efed8",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-tools"
     },
-    "circle-sensor-card": {
-        "changelog": "https://github.com/custom-cards/circle-sensor-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/circle-sensor-card/1.2.0/circle-sensor-card.js",
-        "version": "1.2.0",
-        "visit_repo": "https://github.com/custom-cards/circle-sensor-card"
-    },
     "color-glance-card": {
         "changelog": "https://github.com/thomasloven/lovelace-color-glance-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-color-glance-card/master/color-glance-card.js",
@@ -113,30 +77,6 @@
         "version": "1.3.1",
         "visit_repo": "https://github.com/maykar/compact-custom-header"
     },
-    "config-template-card": {
-        "changelog": "https://github.com/custom-cards/config-template-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/config-template-card/1.0.6/dist/config-template-card.js",
-        "version": "1.0.6",
-        "visit_repo": "https://github.com/custom-cards/config-template-card"
-    },
-    "cover-element": {
-        "changelog": "https://github.com/custom-cards/cover-element",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/cover-element/0.3.0/src/cover-element.js",
-        "version": "0.3.0",
-        "visit_repo": "https://github.com/custom-cards/cover-element"
-    },
-    "decluttering-card": {
-        "changelog": "https://github.com/custom-cards/decluttering-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/decluttering-card/0.2.0/dist/decluttering-card.js",
-        "version": "0.2.0",
-        "visit_repo": "https://github.com/custom-cards/decluttering-card"
-    },
-    "dual-gauge-card": {
-        "changelog": "https://github.com/custom-cards/dual-gauge-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/dual-gauge-card/master/dual-gauge-card.js",
-        "version": "0.4.0",
-        "visit_repo": "https://github.com/custom-cards/dual-gauge-card"
-    },
     "dummy-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-dummy-entity-row",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-dummy-entity-row/master/dummy-entity-row.js",
@@ -148,24 +88,6 @@
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/entity-attributes-card/entity-attributes-card.js",
         "version": "0.1.1",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/entity-attributes-card"
-    },
-    "ext-weblink": {
-        "changelog": "https://github.com/custom-cards/ext-weblink",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/ext-weblink/0.3.2/ext-weblink.js",
-        "version": "0.3.2",
-        "visit_repo": "https://github.com/custom-cards/ext-weblink"
-    },
-    "favicon-counter": {
-        "changelog": "https://github.com/custom-cards/favicon-counter",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/favicon-counter/master/favicon-counter.js",
-        "version": null,
-        "visit_repo": "https://github.com/custom-cards/favicon-counter"
-    },
-    "flex-table-card": {
-        "changelog": "https://github.com/custom-cards/flex-table-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/flex-table-card/master/flex-table-card.js",
-        "version": "0.5.0",
-        "visit_repo": "https://github.com/custom-cards/flex-table-card"
     },
     "flower-card": {
         "changelog": "https://github.com/thomasloven/lovelace-flower-card",
@@ -203,12 +125,6 @@
         "version": "0.0.2",
         "visit_repo": "https://github.com/ciotlosm/custom-lovelace/tree/master/group-card"
     },
-    "group-element": {
-        "changelog": "https://github.com/custom-cards/group-element",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/group-element/0.5.0/src/group-element.js",
-        "version": "0.5.0",
-        "visit_repo": "https://github.com/custom-cards/group-element"
-    },
     "home-setter": {
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/home-setter/changelog.md",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/home-setter/home-setter.js",
@@ -232,18 +148,6 @@
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-layout-card/master/layout-card.js",
         "version": "83e2b1",
         "visit_repo": "https://github.com/thomasloven/lovelace-layout-card"
-    },
-    "light-entity-row": {
-        "changelog": "https://github.com/custom-cards/light-entity-row",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/light-entity-row/v0.2.2/light-entity-row.js",
-        "version": "v0.2.2",
-        "visit_repo": "https://github.com/custom-cards/light-entity-row"
-    },
-    "list-card": {
-        "changelog": "https://github.com/custom-cards/list-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/list-card/0.0.9/list-card.js",
-        "version": "0.0.9",
-        "visit_repo": "https://github.com/custom-cards/list-card"
     },
     "long-press": {
         "changelog": "https://github.com/thomasloven/lovelace-long-press",
@@ -269,18 +173,6 @@
         "version": "3bcc9c",
         "visit_repo": "https://github.com/thomasloven/lovelace-more-info-card"
     },
-    "nintendo-wishlist-card": {
-        "changelog": "https://github.com/custom-cards/nintendo-wishlist-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/nintendo-wishlist-card/master/nintendo-wishlist-card.js",
-        "version": null,
-        "visit_repo": "https://github.com/custom-cards/nintendo-wishlist-card"
-    },
-    "pc-card": {
-        "changelog": "https://github.com/custom-cards/pc-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/pc-card/v0.0.3/pc-card.js",
-        "version": "v0.0.3",
-        "visit_repo": "https://github.com/custom-cards/pc-card"
-    },
     "plan-coordinates": {
         "changelog": "https://github.com/ciotlosm/custom-lovelace/tree/master/plan-coordinates/changelog.md",
         "remote_location": "https://raw.githubusercontent.com/ciotlosm/custom-lovelace/master/plan-coordinates/plan-coordinates.js",
@@ -293,41 +185,11 @@
         "version": "532667",
         "visit_repo": "https://github.com/thomasloven/lovelace-player"
     },
-    "podcast-card": {
-        "changelog": "https://github.com/custom-cards/podcast-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/podcast-card/1.0.3/dist/podcast-card.js",
-        "version": "1.0.3",
-        "visit_repo": "https://github.com/custom-cards/podcast-card"
-    },
     "popup-card": {
         "changelog": "https://github.com/thomasloven/lovelace-popup-card",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-popup-card/master/popup-card.js",
         "version": "78d39a",
         "visit_repo": "https://github.com/thomasloven/lovelace-popup-card"
-    },
-    "radial-menu": {
-        "changelog": "https://github.com/custom-cards/radial-menu",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/radial-menu/1.4.3/dist/radial-menu.js",
-        "version": "1.4.3",
-        "visit_repo": "https://github.com/custom-cards/radial-menu"
-    },
-    "rmv-card": {
-        "changelog": "https://github.com/custom-cards/rmv-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/rmv-card/master/rmv-card.js",
-        "version": null,
-        "visit_repo": "https://github.com/custom-cards/rmv-card"
-    },
-    "roku-card": {
-        "changelog": "https://github.com/custom-cards/roku-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/roku-card/0.0.8/roku-card.js",
-        "version": "0.0.8",
-        "visit_repo": "https://github.com/custom-cards/roku-card"
-    },
-    "secondaryinfo-entity-row": {
-        "changelog": "https://github.com/custom-cards/secondaryinfo-entity-row",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/secondaryinfo-entity-row/master/secondaryinfo-entity-row.js",
-        "version": null,
-        "visit_repo": "https://github.com/custom-cards/secondaryinfo-entity-row"
     },
     "slider-entity-row": {
         "changelog": "https://github.com/thomasloven/lovelace-slider-entity-row",
@@ -335,47 +197,11 @@
         "version": "93fe89",
         "visit_repo": "https://github.com/thomasloven/lovelace-slider-entity-row"
     },
-    "spotify-card": {
-        "changelog": "https://github.com/custom-cards/spotify-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/spotify-card/v1.6/src/spotify-card.js",
-        "version": "v1.6",
-        "visit_repo": "https://github.com/custom-cards/spotify-card"
-    },
-    "state-attribute-element": {
-        "changelog": "https://github.com/custom-cards/state-attribute-element",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/state-attribute-element/0.3.0/state-attribute-element.js",
-        "version": "0.3.0",
-        "visit_repo": "https://github.com/custom-cards/state-attribute-element"
-    },
-    "state-element": {
-        "changelog": "https://github.com/custom-cards/state-element",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/state-element/0.0.1/state-element.js",
-        "version": "0.0.1",
-        "visit_repo": "https://github.com/custom-cards/state-element"
-    },
     "state-switch": {
         "changelog": "https://github.com/thomasloven/lovelace-state-switch",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-state-switch/master/state-switch.js",
         "version": "a64a9b",
         "visit_repo": "https://github.com/thomasloven/lovelace-state-switch"
-    },
-    "surveillance-card": {
-        "changelog": "https://github.com/custom-cards/surveillance-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/surveillance-card/master/surveillance-card.js",
-        "version": "0.0.1",
-        "visit_repo": "https://github.com/custom-cards/surveillance-card"
-    },
-    "text-action-element": {
-        "changelog": "https://github.com/custom-cards/text-action-element",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/text-action-element/0.1.0/src/text-action-element.js",
-        "version": "0.1.0",
-        "visit_repo": "https://github.com/custom-cards/text-action-element"
-    },
-    "text-divider-row": {
-        "changelog": "https://github.com/custom-cards/text-divider-row",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/text-divider-row/1.0.3/text-divider-row.js",
-        "version": "1.0.3",
-        "visit_repo": "https://github.com/custom-cards/text-divider-row"
     },
     "text-element": {
         "changelog": "https://github.com/custom-cards/text-element",
@@ -406,12 +232,6 @@
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-toggle-lock-entity-row/master/toggle-lock-entity-row.js",
         "version": "a57ac1",
         "visit_repo": "https://github.com/thomasloven/lovelace-toggle-lock-entity-row"
-    },
-    "tracker-card": {
-        "changelog": "https://github.com/custom-cards/tracker-card",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/tracker-card/master/tracker-card.js",
-        "version": "1.2.6",
-        "visit_repo": "https://github.com/custom-cards/tracker-card"
     },
     "untappd-card": {
         "changelog": "https://github.com/custom-cards/untappd-card",
