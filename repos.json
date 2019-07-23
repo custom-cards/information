@@ -68,7 +68,7 @@
     "card-mod": {
         "changelog": "https://github.com/thomasloven/lovelace-card-mod",
         "remote_location": "https://raw.githubusercontent.com/thomasloven/lovelace-card-mod/master/card-mod.js",
-        "version": "5cf652",
+        "version": "c45bce",
         "visit_repo": "https://github.com/thomasloven/lovelace-card-mod"
     },
     "card-modder": {
