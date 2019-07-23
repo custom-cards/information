@@ -371,12 +371,6 @@
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-cards/text-action-element"
     },
-    "text-divider-row": {
-        "changelog": "https://github.com/custom-cards/text-divider-row",
-        "remote_location": "https://raw.githubusercontent.com/custom-cards/text-divider-row/1.0.3/text-divider-row.js",
-        "version": "1.0.3",
-        "visit_repo": "https://github.com/custom-cards/text-divider-row"
-    },
     "text-element": {
         "changelog": "https://github.com/custom-cards/text-element",
         "remote_location": "https://raw.githubusercontent.com/custom-cards/text-element/0.0.2/text-element.js",
