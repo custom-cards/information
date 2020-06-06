@@ -16,7 +16,7 @@ This space has some benefits.
  - Users can :star: the cards that they love and most popular will get a higher chance to get adopted into official lovelace
 
 #### Installing the custom_cards
-For the latest instruction on how to install custom_cards please view the [official documents](https://developers.home-assistant.io/docs/en/lovelace_custom_card.html)
+For the latest instruction on how to install custom_cards please view the [official documents](https://developers.home-assistant.io/docs/frontend/custom-ui/lovelace-custom-card)
 
 #### Rules
 Like all other places there are need for some rules.
